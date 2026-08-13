@@ -1,0 +1,581 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "😀 Limine",
+          "description": "Modern, advanced, portable, multiprotocol bootloader.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T17:09:55Z",
+            "owner": "Limine-Bootloader",
+            "repo": "Limine",
+            "stars": 3564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙁 TomatBoot",
+          "description": "A UEFI 64bit Bootloader",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2021-02-26T10:37:38Z",
+            "owner": "TomatOrg",
+            "repo": "TomatBoot",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 Sabaton",
+          "description": "aarch64 stivale2 bootloader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2023-01-26T02:02:03Z",
+            "owner": "FlorenceOS",
+            "repo": "Sabaton",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 Tosaithe",
+          "description": "Very minimalistic UEFI boot menu / Stivale2 bootloader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-06-28T09:10:10Z",
+            "owner": "davmac314",
+            "repo": "tosaithe",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 Ion",
+          "description": "Modern x86_64 UEFI bootloader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-10-03T23:06:44Z",
+            "owner": "Andy-Python-Programmer",
+            "repo": "ion",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Bootloaders"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "😀 SerenityOS",
+          "description": "Graphical Unix-like operating system for x86 computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T03:45:49Z",
+            "owner": "SerenityOS",
+            "repo": "serenity",
+            "stars": 33752
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 ToaruOS",
+          "description": "A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T08:43:20Z",
+            "owner": "klange",
+            "repo": "toaruos",
+            "stars": 6823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 skiftOS",
+          "description": "A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience. (skiftOS is currently being rewritten so a lot of things might not work)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-08T18:55:47Z",
+            "owner": "skift-org",
+            "repo": "skift",
+            "stars": 2980
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 Managarm",
+          "description": "Pragmatic microkernel-based OS with fully asynchronous I/O",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T19:39:27Z",
+            "owner": "managarm",
+            "repo": "managarm",
+            "stars": 1962
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 Lemon OS",
+          "description": "Lemon OS is a UNIX-like 64-bit operating system written in C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-11-23T05:32:27Z",
+            "owner": "LemonOSProject",
+            "repo": "LemonOS",
+            "stars": 1295
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 Aero",
+          "description": "Aero is a new modern, experimental, unix-like operating system following the monolithic kernel design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-04-07T05:52:46Z",
+            "owner": "Andy-Python-Programmer",
+            "repo": "aero",
+            "stars": 1251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 BRUTAL",
+          "description": "An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-22T18:35:40Z",
+            "owner": "brutal-org",
+            "repo": "brutal",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 opuntiaOS",
+          "description": "An operating system targeting x86, ARMv7, and Aarch64",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-04-06T10:38:29Z",
+            "owner": "opuntiaOS-Project",
+            "repo": "opuntiaOS",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 duckOS",
+          "description": "A hobby UNIX-like OS with a graphical window manager for x86 computers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C++",
+            "last_commit": "2024-09-09T07:03:56Z",
+            "owner": "byteduck",
+            "repo": "duckOS",
+            "stars": 645
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 SnowflakeOS",
+          "description": "\"It is very special\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-12-24T13:20:34Z",
+            "owner": "29jm",
+            "repo": "SnowflakeOS",
+            "stars": 317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 FlorenceOS",
+          "description": "The Renaissance of Operating Systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Zig",
+            "last_commit": "2022-08-22T07:33:14Z",
+            "owner": "FlorenceOS",
+            "repo": "Florence",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 Skylight",
+          "description": "A clean, well-written minimalist operating system designed to be used as an educational material for operating system development.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2025-08-08T13:27:09Z",
+            "owner": "austanss",
+            "repo": "skylight",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 Lyre",
+          "description": "Lyre is an effort to write a modern, fast, and useful operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-03-04T23:21:28Z",
+            "owner": "Lyre-OS",
+            "repo": "Lyre",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 μ",
+          "description": "µ is a minimalist microkernel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2023-08-05T13:18:08Z",
+            "owner": "keyboard-slayer",
+            "repo": "mu",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 nyx",
+          "description": "A simple operating system with a capability-based microkernel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-06-18T00:02:38Z",
+            "owner": "nyx-os",
+            "repo": "nyx",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Operating Systems"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "😀 LAI",
+          "description": "LAI is an interpreter for AML, the ACPI Machine Language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2025-11-15T08:54:53Z",
+            "owner": "managarm",
+            "repo": "lai",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 frigg",
+          "description": "Lightweight C++ utilities and algorithms for system programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-07-23T15:01:33Z",
+            "owner": "managarm",
+            "repo": "frigg",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 lil",
+          "description": "A lightweight Intel GPU library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-02-16T19:10:55Z",
+            "owner": "managarm",
+            "repo": "lil",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "😀 libheap",
+          "description": "A simple heap allocation library for hobby operating systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-01-22T08:57:51Z",
+            "owner": "cute-engineering",
+            "repo": "ce-heap",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "😀 mlibc",
+          "description": "Portable C standard library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-10T17:36:14Z",
+            "owner": "managarm",
+            "repo": "mlibc",
+            "stars": 1120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "🙂 chadlibc",
+          "description": "A simple C standard library. Very incomplete and currently isn’t recommended for use in your operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-07-10T07:04:57Z",
+            "owner": "cute-engineering",
+            "repo": "chadlibc",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "C Standard Libraries"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cfenollosa/os-tutorial",
+          "description": "A tutorial to make a complete operating system from a bootloader to a basic shell.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-02-04T09:33:56Z",
+            "owner": "cfenollosa",
+            "repo": "os-tutorial",
+            "stars": 30652
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "isometimes/rpi4-osdev",
+          "description": "A tutorial to write a basic operating system for Raspberry Pi 4.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-04T18:13:23Z",
+            "owner": "sypstraw",
+            "repo": "rpi4-osdev",
+            "stars": 3766
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Books"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xv6",
+          "description": "[PDF] - A modernized version of the classic Dennis Richie’s and Ken Thompson’s UNIX V6, written in ANSI C for x86 and RISC-V.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-08-13T17:16:16Z",
+            "owner": "mit-pdos",
+            "repo": "xv6-public",
+            "stars": 9565
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MINIX 3.1.0",
+          "description": "The third version of MINIX for the 32-bit 386 protected mode. Appeared in the third edition of \"Operating Systems: Design and Implementation\" released in 2006, written by Andrew S. Tanebaum and Albert S. Woodhull.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-18T14:58:45Z",
+            "owner": "Stichting-MINIX-Research-Foundation",
+            "repo": "minix",
+            "stars": 3493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MINIX From Scratch",
+          "description": "A quick development environment for building the book versions of MINIX 2 and 3.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-10-18T19:58:40Z",
+            "owner": "o-oconnell",
+            "repo": "minixfromscratch",
+            "stars": 1267
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MINIX 1.0",
+          "description": "The first version of MINIX for Intel 8088 real mode. First appeared in a book released in 1986 called \"Operating Systems: Design and Implementation\" written by Andrew S. Tanenbaum.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2017-11-13T13:57:04Z",
+            "owner": "gdevic",
+            "repo": "minix1",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MINIX 2.0.0",
+          "description": "The second version of MINIX for Intel 8088 real mode, the 16-bit 286 protected mode, and the 32-bit 386 protected mode. Appeared in the second edition of \"Operating Systems: Design and Implementation\" released in 1997, written by Andrew S. Tanebaum and Albert S. Woodhull.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2021-12-05T14:40:57Z",
+            "owner": "leap0x7b",
+            "repo": "minix-2.0.0",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Reference Projects"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Manuals and Specifications"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Video Display"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OS X ABI Mach-O File Format Reference",
+          "description": "[PDF]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-10-13T04:06:23Z",
+            "owner": "aidansteele",
+            "repo": "osx-abi-macho-file-format-reference",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Executable and Linking Format Specification",
+          "description": "[PDF]",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RISC-V ELF psABI Document",
+              "description": "[PDF]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2026-07-28T00:41:53Z",
+                "owner": "riscv-non-isa",
+                "repo": "riscv-elf-psabi-doc",
+                "stars": 851
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Executable File Format"
+    },
+    {
+      "description": "Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.\nPlease note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:26:31.578Z",
+    "original_repository": "leap0x7b/awesome-osdev",
+    "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
+    "enhanced_repository": "enhansome/enhansome-osdev",
+    "enhanced_repository_description": null,
+    "title": "Awesome OSDev with stars"
+  }
+}
