@@ -12,7 +12,7 @@ List of resources and projects for operating system development.
 
 ### Bootloaders
 
-* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,564 | 🐛 17 | 🌐 C | 📅 2026-08-12 - Modern, advanced, portable, multiprotocol bootloader.
+* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,565 | 🐛 17 | 🌐 C | 📅 2026-08-12 - Modern, advanced, portable, multiprotocol bootloader.
 * 🙁 [TomatBoot](https://github.com/TomatOrg/TomatBoot) ⚠️ Archived - A UEFI 64bit Bootloader
 * 🙂 [Sabaton](https://github.com/FlorenceOS/Sabaton) ⭐ 49 | 🐛 2 | 🌐 Zig | 📅 2023-01-26 - aarch64 stivale2 bootloader
 * 🙂 [Tosaithe](https://github.com/davmac314/tosaithe) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2025-06-28 - Very minimalistic UEFI boot menu / Stivale2 bootloader
@@ -20,7 +20,7 @@ List of resources and projects for operating system development.
 
 ### Operating Systems
 
-* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,752 | 🐛 742 | 🌐 C++ | 📅 2026-08-12 - Graphical Unix-like operating system for x86 computers.
+* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,752 | 🐛 741 | 🌐 C++ | 📅 2026-08-13 - Graphical Unix-like operating system for x86 computers.
 * 😀 [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,823 | 🐛 70 | 🌐 C | 📅 2026-08-12 - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 * 🙂 [skiftOS](https://github.com/skiftOS/skift) ⭐ 2,980 | 🐛 7 | 🌐 C++ | 📅 2026-07-08 - A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience. (skiftOS is currently being rewritten so a lot of things might not work)
 * 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,962 | 🐛 215 | 🌐 C++ | 📅 2026-08-11 - Pragmatic microkernel-based OS with fully asynchronous I/O
@@ -293,7 +293,7 @@ List of resources and projects for operating system development.
 
 * [OS X ABI Mach-O File Format Reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference/raw/master/Mach-O_File_Format.pdf) ⭐ 878 | 🐛 1 | 📅 2024-10-13 \[PDF]
 * [Executable and Linking Format Specification](https://refspecs.linuxfoundation.org/elf/elf.pdf) \[PDF]
-  * [RISC-V ELF psABI Document](https://github.com/riscv-non-isa/riscv-elf-psabi-doc/releases/download/v1.0-rc1/riscv-abi.pdf) ⭐ 851 | 🐛 92 | 🌐 Python | 📅 2026-07-28 \[PDF]
+  * [RISC-V ELF psABI Document](https://github.com/riscv-non-isa/riscv-elf-psabi-doc/releases/download/v1.0-rc1/riscv-abi.pdf) ⭐ 851 | 🐛 94 | 🌐 Python | 📅 2026-07-28 \[PDF]
   * [System V Application Binary Interface Edition 4.1](http://www.sco.com/developers/devspecs/gabi41.pdf) \[PDF]
   * [System V ABI, Intel386 Architecture Processor Supplement](http://www.sco.com/developers/devspecs/abi386-4.pdf) \[PDF]
   * [System V ABI, AMD64 Supplement](http://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf) \[PDF]
