@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T17:09:55Z",
             "owner": "Limine-Bootloader",
             "repo": "Limine",
-            "stars": 3565
+            "stars": 3569
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T04:28:16Z",
+            "last_commit": "2026-08-13T18:47:26Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33752
+            "stars": 33757
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2025-04-07T05:52:46Z",
             "owner": "Andy-Python-Programmer",
             "repo": "aero",
-            "stars": 1251
+            "stars": 1250
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-08-10T17:36:14Z",
             "owner": "managarm",
             "repo": "mlibc",
-            "stars": 1120
+            "stars": 1122
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30652
+            "stars": 30653
           }
         },
         {
@@ -451,7 +451,7 @@
             "last_commit": "2024-08-13T17:16:16Z",
             "owner": "mit-pdos",
             "repo": "xv6-public",
-            "stars": 9565
+            "stars": 9564
           }
         },
         {
@@ -553,7 +553,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Python",
-                "last_commit": "2026-07-28T00:41:53Z",
+                "last_commit": "2026-08-13T15:03:38Z",
                 "owner": "riscv-non-isa",
                 "repo": "riscv-elf-psabi-doc",
                 "stars": 851
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T06:24:15.810Z",
+    "last_updated": "2026-08-14T06:22:26.426Z",
     "original_repository": "leap0x7b/awesome-osdev",
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
     "enhanced_repository": "enhansome/enhansome-osdev",
