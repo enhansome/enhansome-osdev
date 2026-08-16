@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T17:09:55Z",
             "owner": "Limine-Bootloader",
             "repo": "Limine",
-            "stars": 3571
+            "stars": 3576
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T22:53:36Z",
+            "last_commit": "2026-08-16T01:42:41Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33754
+            "stars": 33757
           }
         },
         {
@@ -123,7 +123,7 @@
             "last_commit": "2026-07-08T18:55:47Z",
             "owner": "skift-org",
             "repo": "skift",
-            "stars": 2980
+            "stars": 2981
           }
         },
         {
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T18:39:26Z",
+            "last_commit": "2026-08-15T14:10:46Z",
             "owner": "managarm",
             "repo": "managarm",
             "stars": 1963
@@ -373,7 +373,7 @@
             "last_commit": "2026-08-10T17:36:14Z",
             "owner": "managarm",
             "repo": "mlibc",
-            "stars": 1122
+            "stars": 1121
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30654
+            "stars": 30655
           }
         },
         {
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T05:34:00.799Z",
+    "last_updated": "2026-08-16T05:36:43.855Z",
     "original_repository": "leap0x7b/awesome-osdev",
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
     "enhanced_repository": "enhansome/enhansome-osdev",
