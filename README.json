@@ -19,7 +19,7 @@
             "last_commit": "2026-08-12T17:09:55Z",
             "owner": "Limine-Bootloader",
             "repo": "Limine",
-            "stars": 3576
+            "stars": 3582
           }
         },
         {
@@ -92,10 +92,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T01:42:41Z",
+            "last_commit": "2026-08-16T20:27:59Z",
             "owner": "SerenityOS",
             "repo": "serenity",
-            "stars": 33757
+            "stars": 33756
           }
         },
         {
@@ -106,10 +106,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T03:01:21Z",
+            "last_commit": "2026-08-17T00:20:57Z",
             "owner": "klange",
             "repo": "toaruos",
-            "stars": 6823
+            "stars": 6822
           }
         },
         {
@@ -134,7 +134,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T14:10:46Z",
+            "last_commit": "2026-08-17T05:33:17Z",
             "owner": "managarm",
             "repo": "managarm",
             "stars": 1963
@@ -151,7 +151,7 @@
             "last_commit": "2024-11-23T05:32:27Z",
             "owner": "LemonOSProject",
             "repo": "LemonOS",
-            "stars": 1295
+            "stars": 1296
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-08-10T17:36:14Z",
             "owner": "managarm",
             "repo": "mlibc",
-            "stars": 1121
+            "stars": 1122
           }
         },
         {
@@ -412,7 +412,7 @@
             "last_commit": "2026-02-04T09:33:56Z",
             "owner": "cfenollosa",
             "repo": "os-tutorial",
-            "stars": 30655
+            "stars": 30656
           }
         },
         {
@@ -451,7 +451,7 @@
             "last_commit": "2024-08-13T17:16:16Z",
             "owner": "mit-pdos",
             "repo": "xv6-public",
-            "stars": 9564
+            "stars": 9566
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2024-03-18T14:58:45Z",
             "owner": "Stichting-MINIX-Research-Foundation",
             "repo": "minix",
-            "stars": 3491
+            "stars": 3493
           }
         },
         {
@@ -479,7 +479,7 @@
             "last_commit": "2025-10-18T19:58:40Z",
             "owner": "o-oconnell",
             "repo": "minixfromscratch",
-            "stars": 1267
+            "stars": 1268
           }
         },
         {
@@ -493,7 +493,7 @@
             "last_commit": "2017-11-13T13:57:04Z",
             "owner": "gdevic",
             "repo": "minix1",
-            "stars": 401
+            "stars": 402
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2024-10-13T04:06:23Z",
             "owner": "aidansteele",
             "repo": "osx-abi-macho-file-format-reference",
-            "stars": 878
+            "stars": 879
           }
         },
         {
@@ -571,7 +571,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T05:36:43.855Z",
+    "last_updated": "2026-08-17T05:43:42.909Z",
     "original_repository": "leap0x7b/awesome-osdev",
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
     "enhanced_repository": "enhansome/enhansome-osdev",
