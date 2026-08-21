@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 186746473,
                 "language": "C",
-                "last_commit": "2026-08-18T18:08:02Z",
+                "last_commit": "2026-08-20T15:46:24Z",
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3598
+                "stars": 3599
               }
             },
             {
@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 160083795,
                 "language": "C++",
-                "last_commit": "2026-08-19T22:59:31Z",
+                "last_commit": "2026-08-20T18:51:12Z",
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33761
+                "stars": 33766
               }
             },
             {
@@ -114,7 +114,7 @@
                 "last_commit": "2026-08-20T00:01:50Z",
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6823
+                "stars": 6822
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-07-08T18:55:47Z",
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2982
+                "stars": 2983
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 63081862,
                 "language": "C++",
-                "last_commit": "2026-08-19T21:16:47Z",
+                "last_commit": "2026-08-20T21:01:40Z",
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 1964
+                "stars": 1965
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-11-23T05:32:27Z",
                 "owner": "LemonOSProject",
                 "repo": "LemonOS",
-                "stars": 1296
+                "stars": 1297
               }
             },
             {
@@ -219,7 +219,7 @@
                 "last_commit": "2024-09-09T07:03:56Z",
                 "owner": "byteduck",
                 "repo": "duckOS",
-                "stars": 644
+                "stars": 646
               }
             },
             {
@@ -390,10 +390,10 @@
                     "archived": false,
                     "id": 63353495,
                     "language": "C",
-                    "last_commit": "2026-08-17T19:24:37Z",
+                    "last_commit": "2026-08-20T22:56:53Z",
                     "owner": "managarm",
                     "repo": "mlibc",
-                    "stars": 1123
+                    "stars": 1125
                   }
                 },
                 {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30658
+                "stars": 30654
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2024-08-13T17:16:16Z",
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9568
+                "stars": 9567
               }
             },
             {
@@ -508,7 +508,7 @@
                 "last_commit": "2025-10-18T19:58:40Z",
                 "owner": "o-oconnell",
                 "repo": "minixfromscratch",
-                "stars": 1268
+                "stars": 1269
               }
             },
             {
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T05:39:12.938Z",
+    "last_updated": "2026-08-21T05:41:15.346Z",
     "original_repository": "leap0x7b/awesome-osdev",
     "original_repository_id": 435372678,
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
