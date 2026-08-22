@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T15:46:24Z",
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3599
+                "stars": 3604
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-20T18:51:12Z",
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33766
+                "stars": 33770
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 1259258,
                 "language": "C",
-                "last_commit": "2026-08-20T00:01:50Z",
+                "last_commit": "2026-08-21T11:00:16Z",
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6822
+                "stars": 6824
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 63081862,
                 "language": "C++",
-                "last_commit": "2026-08-20T21:01:40Z",
+                "last_commit": "2026-08-21T20:14:18Z",
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 1965
+                "stars": 1966
               }
             },
             {
@@ -159,7 +159,7 @@
                 "last_commit": "2024-11-23T05:32:27Z",
                 "owner": "LemonOSProject",
                 "repo": "LemonOS",
-                "stars": 1297
+                "stars": 1298
               }
             },
             {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30654
+                "stars": 30656
               }
             },
             {
@@ -602,7 +602,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T05:41:15.346Z",
+    "last_updated": "2026-08-22T05:36:05.371Z",
     "original_repository": "leap0x7b/awesome-osdev",
     "original_repository_id": 435372678,
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
