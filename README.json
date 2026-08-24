@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-20T15:46:24Z",
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3617
+                "stars": 3618
               }
             },
             {
@@ -99,7 +99,7 @@
                 "last_commit": "2026-08-23T21:59:28Z",
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33776
+                "stars": 33777
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-07-08T18:55:47Z",
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2985
+                "stars": 2986
               }
             },
             {
@@ -551,6 +551,50 @@
             {
               "children": [
                 {
+                  "node_type": "group",
+                  "title": "RISC-V Manuals and Specifications",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "RISC-V Instruction Set Manual (Volume 1: Unprivileged ISA)",
+                      "description": "[PDF]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 80689539,
+                        "language": "TeX",
+                        "last_commit": "2026-08-23T12:05:06Z",
+                        "owner": "riscv",
+                        "repo": "riscv-isa-manual",
+                        "stars": 4779
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "RISC-V Instruction Set Manual (Volume 2: Privileged Architecture)",
+                      "description": "[PDF]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 80689539,
+                        "language": "TeX",
+                        "last_commit": "2026-08-23T12:05:06Z",
+                        "owner": "riscv",
+                        "repo": "riscv-isa-manual",
+                        "stars": 4779
+                      }
+                    }
+                  ]
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Processors"
+            },
+            {
+              "children": [
+                {
                   "node_type": "item",
                   "title": "OS X ABI Mach-O File Format Reference",
                   "description": "[PDF]",
@@ -602,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T05:48:13.690Z",
+    "last_updated": "2026-08-24T14:43:05.877Z",
     "original_repository": "leap0x7b/awesome-osdev",
     "original_repository_id": 435372678,
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
