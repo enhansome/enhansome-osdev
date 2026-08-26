@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 186746473,
                 "language": "C",
-                "last_commit": "2026-08-24T21:39:54Z",
+                "last_commit": "2026-08-25T13:18:03Z",
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3621
+                "stars": 3627
               }
             },
             {
@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 160083795,
                 "language": "C++",
-                "last_commit": "2026-08-25T00:19:46Z",
+                "last_commit": "2026-08-25T12:29:36Z",
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33778
+                "stars": 33782
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 1259258,
                 "language": "C",
-                "last_commit": "2026-08-25T05:13:25Z",
+                "last_commit": "2026-08-26T03:02:52Z",
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6826
+                "stars": 6828
               }
             },
             {
@@ -141,7 +141,7 @@
                 "archived": false,
                 "id": 63081862,
                 "language": "C++",
-                "last_commit": "2026-08-24T20:23:53Z",
+                "last_commit": "2026-08-25T19:01:52Z",
                 "owner": "managarm",
                 "repo": "managarm",
                 "stars": 1969
@@ -390,7 +390,7 @@
                     "archived": false,
                     "id": 63353495,
                     "language": "C",
-                    "last_commit": "2026-08-24T21:36:19Z",
+                    "last_commit": "2026-08-25T15:09:30Z",
                     "owner": "managarm",
                     "repo": "mlibc",
                     "stars": 1127
@@ -441,7 +441,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30663
+                "stars": 30668
               }
             },
             {
@@ -456,7 +456,7 @@
                 "last_commit": "2026-08-04T18:13:23Z",
                 "owner": "sypstraw",
                 "repo": "rpi4-osdev",
-                "stars": 3767
+                "stars": 3768
               }
             }
           ],
@@ -478,7 +478,7 @@
                 "last_commit": "2024-08-13T17:16:16Z",
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9571
+                "stars": 9575
               }
             },
             {
@@ -523,7 +523,7 @@
                 "last_commit": "2017-11-13T13:57:04Z",
                 "owner": "gdevic",
                 "repo": "minix1",
-                "stars": 402
+                "stars": 403
               }
             },
             {
@@ -564,10 +564,10 @@
                         "archived": false,
                         "id": 80689539,
                         "language": "TeX",
-                        "last_commit": "2026-08-25T00:01:36Z",
+                        "last_commit": "2026-08-26T02:34:26Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4781
+                        "stars": 4786
                       }
                     },
                     {
@@ -579,10 +579,10 @@
                         "archived": false,
                         "id": 80689539,
                         "language": "TeX",
-                        "last_commit": "2026-08-25T00:01:36Z",
+                        "last_commit": "2026-08-26T02:34:26Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4781
+                        "stars": 4786
                       }
                     }
                   ]
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:36:18.954Z",
+    "last_updated": "2026-08-26T05:42:57.894Z",
     "original_repository": "leap0x7b/awesome-osdev",
     "original_repository_id": 435372678,
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
