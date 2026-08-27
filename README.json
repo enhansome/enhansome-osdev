@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T13:18:03Z",
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3633
+                "stars": 3636
               }
             },
             {
@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 160083795,
                 "language": "C++",
-                "last_commit": "2026-08-27T07:37:22Z",
+                "last_commit": "2026-08-27T15:24:29Z",
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33783
+                "stars": 33784
               }
             },
             {
@@ -393,7 +393,7 @@
                     "last_commit": "2026-08-26T18:08:11Z",
                     "owner": "managarm",
                     "repo": "mlibc",
-                    "stars": 1127
+                    "stars": 1126
                   }
                 },
                 {
@@ -441,7 +441,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30675
+                "stars": 30677
               }
             },
             {
@@ -567,7 +567,7 @@
                         "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4787
+                        "stars": 4788
                       }
                     },
                     {
@@ -582,7 +582,7 @@
                         "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4787
+                        "stars": 4788
                       }
                     }
                   ]
@@ -646,7 +646,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:55:48.169Z",
+    "last_updated": "2026-08-27T16:23:11.207Z",
     "original_repository_info": {
       "archived": false,
       "id": 435372678,
