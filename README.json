@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-25T13:18:03Z",
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3627
+                "stars": 3633
               }
             },
             {
@@ -96,10 +96,10 @@
                 "archived": false,
                 "id": 160083795,
                 "language": "C++",
-                "last_commit": "2026-08-25T12:29:36Z",
+                "last_commit": "2026-08-27T07:37:22Z",
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33782
+                "stars": 33783
               }
             },
             {
@@ -111,10 +111,10 @@
                 "archived": false,
                 "id": 1259258,
                 "language": "C",
-                "last_commit": "2026-08-26T03:02:52Z",
+                "last_commit": "2026-08-27T11:43:36Z",
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6828
+                "stars": 6831
               }
             },
             {
@@ -129,7 +129,7 @@
                 "last_commit": "2026-07-08T18:55:47Z",
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2986
+                "stars": 2985
               }
             },
             {
@@ -141,10 +141,10 @@
                 "archived": false,
                 "id": 63081862,
                 "language": "C++",
-                "last_commit": "2026-08-25T19:01:52Z",
+                "last_commit": "2026-08-27T11:38:30Z",
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 1969
+                "stars": 1970
               }
             },
             {
@@ -174,7 +174,7 @@
                 "last_commit": "2025-04-07T05:52:46Z",
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1250
+                "stars": 1251
               }
             },
             {
@@ -186,7 +186,7 @@
                 "archived": false,
                 "id": 373449678,
                 "language": "C",
-                "last_commit": "2023-08-22T18:35:40Z",
+                "last_commit": "2026-08-26T15:04:29Z",
                 "owner": "brutal-org",
                 "repo": "brutal",
                 "stars": 1111
@@ -331,7 +331,7 @@
                 "last_commit": "2025-11-15T08:54:53Z",
                 "owner": "managarm",
                 "repo": "lai",
-                "stars": 186
+                "stars": 187
               }
             },
             {
@@ -343,7 +343,7 @@
                 "archived": false,
                 "id": 79053795,
                 "language": "C++",
-                "last_commit": "2026-08-23T13:34:38Z",
+                "last_commit": "2026-08-26T16:14:28Z",
                 "owner": "managarm",
                 "repo": "frigg",
                 "stars": 73
@@ -390,7 +390,7 @@
                     "archived": false,
                     "id": 63353495,
                     "language": "C",
-                    "last_commit": "2026-08-25T15:09:30Z",
+                    "last_commit": "2026-08-26T18:08:11Z",
                     "owner": "managarm",
                     "repo": "mlibc",
                     "stars": 1127
@@ -441,7 +441,7 @@
                 "last_commit": "2026-02-04T09:33:56Z",
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30668
+                "stars": 30675
               }
             },
             {
@@ -478,7 +478,7 @@
                 "last_commit": "2024-08-13T17:16:16Z",
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9575
+                "stars": 9580
               }
             },
             {
@@ -523,7 +523,7 @@
                 "last_commit": "2017-11-13T13:57:04Z",
                 "owner": "gdevic",
                 "repo": "minix1",
-                "stars": 403
+                "stars": 402
               }
             },
             {
@@ -564,10 +564,10 @@
                         "archived": false,
                         "id": 80689539,
                         "language": "TeX",
-                        "last_commit": "2026-08-26T02:34:26Z",
+                        "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4786
+                        "stars": 4787
                       }
                     },
                     {
@@ -579,10 +579,10 @@
                         "archived": false,
                         "id": 80689539,
                         "language": "TeX",
-                        "last_commit": "2026-08-26T02:34:26Z",
+                        "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4786
+                        "stars": 4787
                       }
                     }
                   ]
@@ -626,7 +626,7 @@
                         "last_commit": "2026-08-13T15:03:38Z",
                         "owner": "riscv-non-isa",
                         "repo": "riscv-elf-psabi-doc",
-                        "stars": 852
+                        "stars": 851
                       }
                     }
                   ]
@@ -646,9 +646,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T05:42:57.894Z",
-    "original_repository": "leap0x7b/awesome-osdev",
-    "original_repository_id": 435372678,
+    "last_updated": "2026-08-27T11:55:48.169Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 435372678,
+      "language": null,
+      "last_commit": "2024-06-05T15:31:26Z",
+      "owner": "leap0x7b",
+      "repo": "awesome-osdev",
+      "stars": 82
+    },
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
     "enhanced_repository": "enhansome/enhansome-osdev",
     "enhanced_repository_description": null,
