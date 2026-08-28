@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-25T13:18:03Z",
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3636
-              }
+                "stars": 3645
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "TomatOrg",
                 "repo": "TomatBoot",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "FlorenceOS",
                 "repo": "Sabaton",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "davmac314",
                 "repo": "tosaithe",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "Andy-Python-Programmer",
                 "repo": "ion",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             }
           ],
           "description": null,
@@ -96,11 +101,12 @@
                 "archived": false,
                 "id": 160083795,
                 "language": "C++",
-                "last_commit": "2026-08-27T15:24:29Z",
+                "last_commit": "2026-08-27T23:29:33Z",
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33784
-              }
+                "stars": 33791
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -111,11 +117,12 @@
                 "archived": false,
                 "id": 1259258,
                 "language": "C",
-                "last_commit": "2026-08-27T11:43:36Z",
+                "last_commit": "2026-08-27T23:30:08Z",
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6831
-              }
+                "stars": 6832
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -129,8 +136,9 @@
                 "last_commit": "2026-07-08T18:55:47Z",
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2985
-              }
+                "stars": 2984
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -141,11 +149,12 @@
                 "archived": false,
                 "id": 63081862,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:38:30Z",
+                "last_commit": "2026-08-27T22:02:20Z",
                 "owner": "managarm",
                 "repo": "managarm",
                 "stars": 1970
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "LemonOSProject",
                 "repo": "LemonOS",
                 "stars": 1299
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
                 "stars": 1251
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "brutal-org",
                 "repo": "brutal",
                 "stars": 1111
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "opuntiaOS-Project",
                 "repo": "opuntiaOS",
                 "stars": 663
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "byteduck",
                 "repo": "duckOS",
                 "stars": 646
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "29jm",
                 "repo": "SnowflakeOS",
                 "stars": 317
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "FlorenceOS",
                 "repo": "Florence",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "austanss",
                 "repo": "skylight",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "Lyre-OS",
                 "repo": "Lyre",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "keyboard-slayer",
                 "repo": "mu",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "nyx-os",
                 "repo": "nyx",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             }
           ],
           "description": null,
@@ -332,7 +352,8 @@
                 "owner": "managarm",
                 "repo": "lai",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "managarm",
                 "repo": "frigg",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -362,7 +384,8 @@
                 "owner": "managarm",
                 "repo": "lil",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "cute-engineering",
                 "repo": "ce-heap",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "children": [
@@ -393,8 +417,9 @@
                     "last_commit": "2026-08-26T18:08:11Z",
                     "owner": "managarm",
                     "repo": "mlibc",
-                    "stars": 1126
-                  }
+                    "stars": 1127
+                  },
+                  "first_seen": "2026-08-28T17:21:18.229Z"
                 },
                 {
                   "node_type": "item",
@@ -409,7 +434,8 @@
                     "owner": "cute-engineering",
                     "repo": "chadlibc",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:21:18.229Z"
                 }
               ],
               "description": null,
@@ -442,7 +468,8 @@
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
                 "stars": 30677
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -457,7 +484,8 @@
                 "owner": "sypstraw",
                 "repo": "rpi4-osdev",
                 "stars": 3768
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             }
           ],
           "description": null,
@@ -478,8 +506,9 @@
                 "last_commit": "2024-08-13T17:16:16Z",
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9580
-              }
+                "stars": 9582
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -494,7 +523,8 @@
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
                 "stars": 3495
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -509,7 +539,8 @@
                 "owner": "o-oconnell",
                 "repo": "minixfromscratch",
                 "stars": 1268
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -524,7 +555,8 @@
                 "owner": "gdevic",
                 "repo": "minix1",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             },
             {
               "node_type": "item",
@@ -539,7 +571,8 @@
                 "owner": "leap0x7b",
                 "repo": "minix-2.0.0",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T17:21:18.229Z"
             }
           ],
           "description": "Note Recent versions of MINIX 3 doesn’t count as an educational operating system because it’s too complex compared to the book version of MINIX 3 and previous versions of MINIX. You can still use it as a reference for your operating system project, but if you're a beginner, it’s much more recommended to look on source codes of the book version of MINIX 3 instead.",
@@ -567,8 +600,9 @@
                         "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4788
-                      }
+                        "stars": 4789
+                      },
+                      "first_seen": "2026-08-28T17:21:18.229Z"
                     },
                     {
                       "node_type": "item",
@@ -582,8 +616,9 @@
                         "last_commit": "2026-08-26T18:53:06Z",
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4788
-                      }
+                        "stars": 4789
+                      },
+                      "first_seen": "2026-08-28T17:21:18.229Z"
                     }
                   ]
                 }
@@ -607,7 +642,8 @@
                     "owner": "aidansteele",
                     "repo": "osx-abi-macho-file-format-reference",
                     "stars": 880
-                  }
+                  },
+                  "first_seen": "2026-08-28T17:21:18.229Z"
                 },
                 {
                   "node_type": "group",
@@ -627,7 +663,8 @@
                         "owner": "riscv-non-isa",
                         "repo": "riscv-elf-psabi-doc",
                         "stars": 851
-                      }
+                      },
+                      "first_seen": "2026-08-28T17:21:18.229Z"
                     }
                   ]
                 }
@@ -646,7 +683,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:23:11.207Z",
+    "last_updated": "2026-08-28T17:21:18.229Z",
     "original_repository_info": {
       "archived": false,
       "id": 435372678,
