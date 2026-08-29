@@ -12,7 +12,7 @@ List of resources and projects for operating system development.
 
 ### Bootloaders
 
-* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,648 | 🐛 17 | 🌐 C | 📅 2026-08-25 - Modern, advanced, portable, multiprotocol bootloader.
+* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,646 | 🐛 17 | 🌐 C | 📅 2026-08-25 - Modern, advanced, portable, multiprotocol bootloader.
 * 🙁 [TomatBoot](https://github.com/TomatOrg/TomatBoot) ⚠️ Archived - A UEFI 64bit Bootloader
 * 🙂 [Sabaton](https://github.com/FlorenceOS/Sabaton) ⭐ 49 | 🐛 2 | 🌐 Zig | 📅 2023-01-26 - aarch64 stivale2 bootloader
 * 🙂 [Tosaithe](https://github.com/davmac314/tosaithe) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2025-06-28 - Very minimalistic UEFI boot menu / Stivale2 bootloader
@@ -20,10 +20,10 @@ List of resources and projects for operating system development.
 
 ### Operating Systems
 
-* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,793 | 🐛 742 | 🌐 C++ | 📅 2026-08-27 - Graphical Unix-like operating system for x86 computers.
+* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,794 | 🐛 742 | 🌐 C++ | 📅 2026-08-29 - Graphical Unix-like operating system for x86 computers.
 * 😀 [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,832 | 🐛 65 | 🌐 C | 📅 2026-08-27 - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 * 🙂 [skiftOS](https://github.com/skiftOS/skift) ⭐ 2,984 | 🐛 7 | 🌐 C++ | 📅 2026-07-08 - A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience. (skiftOS is currently being rewritten so a lot of things might not work)
-* 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,970 | 🐛 213 | 🌐 C++ | 📅 2026-08-28 - Pragmatic microkernel-based OS with fully asynchronous I/O
+* 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,970 | 🐛 212 | 🌐 C++ | 📅 2026-08-29 - Pragmatic microkernel-based OS with fully asynchronous I/O
 * 😀 [Lemon OS](https://github.com/LemonOSProject/LemonOS) ⭐ 1,299 | 🐛 15 | 🌐 C++ | 📅 2024-11-23 - Lemon OS is a UNIX-like 64-bit operating system written in C++.
 * 😀 [Aero](https://github.com/Andy-Python-Programmer/aero) ⭐ 1,252 | 🐛 28 | 🌐 Rust | 📅 2025-04-07 - Aero is a new modern, experimental, unix-like operating system following the monolithic kernel design.
 * 🙂 [BRUTAL](https://github.com/brutal-org/brutal) ⭐ 1,111 | 🐛 2 | 🌐 C | 📅 2026-08-26 - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
@@ -56,7 +56,7 @@ List of resources and projects for operating system development.
 
 ### Tutorials
 
-* [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) ⭐ 30,677 | 🐛 130 | 🌐 C | 📅 2026-02-04 - A tutorial to make a complete operating system from a bootloader to a basic shell.
+* [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) ⭐ 30,676 | 🐛 130 | 🌐 C | 📅 2026-02-04 - A tutorial to make a complete operating system from a bootloader to a basic shell.
 * [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) ⭐ 3,768 | 🐛 0 | 🌐 C | 📅 2026-08-04 - A tutorial to write a basic operating system for Raspberry Pi 4.
 * [Limine Bare Bones](https://wiki.osdev.org/Limine_Bare_Bones) - Bare bones tutorial to make a 64-bit higher half kernel using the Limine boot protocol.
 * [Stivale Bare Bones](https://wiki.osdev.org/Stivale_Bare_Bones) - Bare bones tutorial to make a 64-bit higher half kernel using the Stivale boot protocol.
