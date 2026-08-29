@@ -12,12 +12,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern, secure, portable, multiprotocol bootloader and boot manager.",
+                "homepage": null,
                 "id": 186746473,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-25T13:18:03Z",
+                "open_issues": 17,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3645
+                "stars": 3648,
+                "topics": [
+                  "aarch64",
+                  "arm",
+                  "arm64",
+                  "bios",
+                  "boot-loader",
+                  "boot-manager",
+                  "bootloader",
+                  "efi",
+                  "gpt",
+                  "loongarch",
+                  "loongarch64",
+                  "loongson",
+                  "mbr",
+                  "risc-v",
+                  "riscv",
+                  "riscv64",
+                  "uefi",
+                  "x64",
+                  "x86",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -28,12 +54,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A UEFI 64bit Bootloader",
+                "homepage": null,
                 "id": 195364009,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-02-26T10:37:38Z",
+                "open_issues": 4,
                 "owner": "TomatOrg",
                 "repo": "TomatBoot",
-                "stars": 150
+                "stars": 150,
+                "topics": [
+                  "64bit",
+                  "bootloader",
+                  "tomatboot-uefi",
+                  "uefi",
+                  "uefi-boot"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -44,12 +81,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aarch64 stivale2 bootloader",
+                "homepage": null,
                 "id": 298093375,
                 "language": "Zig",
+                "license": "0BSD",
                 "last_commit": "2023-01-26T02:02:03Z",
+                "open_issues": 2,
                 "owner": "FlorenceOS",
                 "repo": "Sabaton",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -60,12 +102,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Very minimalistic UEFI boot menu / kernel bootloader",
+                "homepage": null,
                 "id": 407533032,
                 "language": "C++",
+                "license": "CC0-1.0",
                 "last_commit": "2025-06-28T09:10:10Z",
+                "open_issues": 0,
                 "owner": "davmac314",
                 "repo": "tosaithe",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "bootloader",
+                  "osdev",
+                  "uefi"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -76,12 +127,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern x86_64 UEFI bootloader",
+                "homepage": null,
                 "id": 384896615,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2021-10-03T23:06:44Z",
+                "open_issues": 0,
                 "owner": "Andy-Python-Programmer",
                 "repo": "ion",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             }
@@ -99,12 +155,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Serenity Operating System 🐞",
+                "homepage": "https://serenityos.org",
                 "id": 160083795,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-27T23:29:33Z",
+                "open_issues": 742,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33791
+                "stars": 33793,
+                "topics": [
+                  "browser",
+                  "c-plus-plus",
+                  "desktop-environment",
+                  "kernel",
+                  "operating-system",
+                  "os",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -115,12 +184,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete, independent operating system built by humans.",
+                "homepage": "https://toaruos.org/",
                 "id": 1259258,
                 "language": "C",
+                "license": "NCSA",
                 "last_commit": "2026-08-27T23:30:08Z",
+                "open_issues": 65,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6832
+                "stars": 6832,
+                "topics": [
+                  "aarch64",
+                  "armv8",
+                  "baremetal",
+                  "bootloader",
+                  "c",
+                  "c-library",
+                  "cdrom",
+                  "compositor",
+                  "kernel",
+                  "operating-system",
+                  "operating-systems",
+                  "os",
+                  "osdev",
+                  "smp",
+                  "text-editor",
+                  "toaruos",
+                  "window-manager",
+                  "x86",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -131,12 +225,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥑 A modern delightful operating system (mirror)",
+                "homepage": "https://codeberg.org/skift/os",
                 "id": 145472407,
                 "language": "C++",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-08T18:55:47Z",
+                "open_issues": 7,
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2984
+                "stars": 2984,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "desktop-environment",
+                  "kernel",
+                  "operating-system",
+                  "osdev",
+                  "skift",
+                  "userspace"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -147,12 +255,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pragmatic microkernel-based OS with fully asynchronous I/O",
+                "homepage": null,
                 "id": 63081862,
                 "language": "C++",
-                "last_commit": "2026-08-27T22:02:20Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:18:01Z",
+                "open_issues": 213,
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 1970
+                "stars": 1970,
+                "topics": [
+                  "asynchronous-io",
+                  "hacktoberfest",
+                  "microkernel",
+                  "modern-cpp",
+                  "operating-system",
+                  "posix-compatible",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -163,12 +284,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Lemon Operating System",
+                "homepage": "https://lemonos.org",
                 "id": 186245191,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-11-23T05:32:27Z",
+                "open_issues": 15,
                 "owner": "LemonOSProject",
                 "repo": "LemonOS",
-                "stars": 1299
+                "stars": 1299,
+                "topics": [
+                  "c",
+                  "cpp",
+                  "kernel",
+                  "lemon",
+                  "operating-system",
+                  "os",
+                  "osdev"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -179,12 +313,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Aero is a new modern, experimental, UNIX-like operating system following the monolithic kernel design. Supporting modern PC features such as long mode, 5-level paging, and SMP (multicore), to name a few.",
+                "homepage": "https://andypy.dev/aero",
                 "id": 346250541,
                 "language": "Rust",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-07T05:52:46Z",
+                "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1251
+                "stars": 1252,
+                "topics": [
+                  "aero",
+                  "hacktoberfest",
+                  "operating-system",
+                  "rust",
+                  "uefi",
+                  "unix"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -195,12 +341,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🏢 An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering ",
+                "homepage": "https://brutal.smnx.sh/",
                 "id": 373449678,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2026-08-26T15:04:29Z",
+                "open_issues": 2,
                 "owner": "brutal-org",
                 "repo": "brutal",
-                "stars": 1111
+                "stars": 1111,
+                "topics": [
+                  "c",
+                  "hobby-os",
+                  "kernel",
+                  "microkernel",
+                  "modern-c",
+                  "operating-system",
+                  "osdev"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -211,12 +370,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "opuntiaOS - an operating system targeting x86, ARM and RISC-V.",
+                "homepage": null,
                 "id": 195193555,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2023-04-06T10:38:29Z",
+                "open_issues": 15,
                 "owner": "opuntiaOS-Project",
                 "repo": "opuntiaOS",
-                "stars": 663
+                "stars": 663,
+                "topics": [
+                  "hobby-kernel",
+                  "hobby-os",
+                  "kernel",
+                  "operating-system",
+                  "opuntiaos",
+                  "os",
+                  "osdev",
+                  "userland"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -227,12 +400,34 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An x86 monolithic kernel and operating system written in modern C++. Comes with in-house graphical applications and command line utilities, plus ports of existing software. And yes, it runs DOOM!",
+                "homepage": null,
                 "id": 268658891,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-09T07:03:56Z",
+                "open_issues": 9,
                 "owner": "byteduck",
                 "repo": "duckOS",
-                "stars": 646
+                "stars": 646,
+                "topics": [
+                  "aarch64",
+                  "baremetal",
+                  "c-plus-plus",
+                  "doom",
+                  "dynamic-linking",
+                  "hobby-kernel",
+                  "hobby-os",
+                  "kernel",
+                  "operating-system",
+                  "operating-systems",
+                  "os",
+                  "osdev",
+                  "posix",
+                  "unix",
+                  "unix-like",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -243,12 +438,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"It is very special\"",
+                "homepage": "https://jmnl.xyz",
                 "id": 38449214,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-12-24T13:20:34Z",
+                "open_issues": 5,
                 "owner": "29jm",
                 "repo": "SnowflakeOS",
-                "stars": 317
+                "stars": 317,
+                "topics": [
+                  "hobby-os",
+                  "kernel",
+                  "os",
+                  "osdev"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -259,12 +464,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Renaissance of Operating Systems",
+                "homepage": null,
                 "id": 224926930,
                 "language": "Zig",
+                "license": "0BSD",
                 "last_commit": "2022-08-22T07:33:14Z",
+                "open_issues": 9,
                 "owner": "FlorenceOS",
                 "repo": "Florence",
-                "stars": 163
+                "stars": 163,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -275,12 +485,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A big ball of mud.",
+                "homepage": null,
                 "id": 368028789,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-08-08T13:27:09Z",
+                "open_issues": 0,
                 "owner": "austanss",
                 "repo": "skylight",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -291,12 +506,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UNIX-like kernel and distro written from scratch",
+                "homepage": null,
                 "id": 282425190,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-03-04T23:21:28Z",
+                "open_issues": 3,
                 "owner": "Lyre-OS",
                 "repo": "Lyre",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "kernel",
+                  "limine",
+                  "lyre",
+                  "lyre-os",
+                  "operating-system",
+                  "os",
+                  "osdev",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -307,12 +536,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":microbe: µ is a minimalist microkernel",
+                "homepage": null,
                 "id": 585831080,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2023-08-05T13:18:08Z",
+                "open_issues": 0,
                 "owner": "keyboard-slayer",
                 "repo": "mu",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -323,12 +557,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 551718486,
                 "language": "Shell",
+                "license": "BSD-2-Clause",
                 "last_commit": "2025-06-18T00:02:38Z",
+                "open_issues": 0,
                 "owner": "nyx-os",
                 "repo": "nyx",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             }
@@ -346,12 +585,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LAI is an interpreter for AML, the ACPI Machine Language.",
+                "homepage": null,
                 "id": 187388098,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2025-11-15T08:54:53Z",
+                "open_issues": 23,
                 "owner": "managarm",
                 "repo": "lai",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "acpi",
+                  "aml",
+                  "aml-interpreter",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -362,12 +611,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight C++ utilities and algorithms for system programming",
+                "homepage": null,
                 "id": 79053795,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-08-26T16:14:28Z",
+                "open_issues": 16,
                 "owner": "managarm",
                 "repo": "frigg",
-                "stars": 73
+                "stars": 73,
+                "topics": [
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -378,12 +634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight Intel gpu Library",
+                "homepage": null,
                 "id": 315421912,
                 "language": "C++",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-02-16T19:10:55Z",
+                "open_issues": 0,
                 "owner": "managarm",
                 "repo": "lil",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -394,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥞 A simple heap allocation library for hobby operating systems.",
+                "homepage": null,
                 "id": 552077298,
                 "language": "C",
+                "license": "MIT",
                 "last_commit": "2024-01-22T08:57:51Z",
+                "open_issues": 0,
                 "owner": "cute-engineering",
                 "repo": "ce-heap",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -412,12 +678,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Portable C standard library",
+                    "homepage": null,
                     "id": 63353495,
                     "language": "C",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-26T18:08:11Z",
+                    "open_issues": 91,
                     "owner": "managarm",
                     "repo": "mlibc",
-                    "stars": 1127
+                    "stars": 1126,
+                    "topics": [
+                      "c-library",
+                      "cpp",
+                      "hacktoberfest",
+                      "portable",
+                      "posix-compatible",
+                      "x86-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:21:18.229Z"
                 },
@@ -428,12 +706,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "😎 C standard library",
+                    "homepage": "https://git.cute.engineering/CuteEngineering/chadlibc",
                     "id": 375817727,
                     "language": "C",
+                    "license": "LGPL-3.0",
                     "last_commit": "2024-07-10T07:04:57Z",
+                    "open_issues": 8,
                     "owner": "cute-engineering",
                     "repo": "chadlibc",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": [
+                      "cute-engineewing",
+                      "hacktoberfest",
+                      "hacktoberfest-accepted",
+                      "hacktoberfest2021",
+                      "libc"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:21:18.229Z"
                 }
@@ -462,12 +751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "How to create an OS from scratch",
+                "homepage": null,
                 "id": 24586308,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-02-04T09:33:56Z",
+                "open_issues": 130,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30677
+                "stars": 30677,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -478,12 +772,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tutorial: Writing a \"bare metal\" operating system for Raspberry Pi 4",
+                "homepage": "https://www.rpi4os.com",
                 "id": 279028703,
                 "language": "C",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-04T18:13:23Z",
+                "open_issues": 0,
                 "owner": "sypstraw",
                 "repo": "rpi4-osdev",
-                "stars": 3768
+                "stars": 3768,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             }
@@ -501,12 +800,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "xv6 OS",
+                "homepage": "http://pdos.csail.mit.edu/6.828/",
                 "id": 40504480,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-13T17:16:16Z",
+                "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9582
+                "stars": 9584,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -517,12 +821,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official MINIX sources - Automatically replicated from gerrit.minix3.org",
+                "homepage": null,
                 "id": 24751147,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-18T14:58:45Z",
+                "open_issues": 126,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3495
+                "stars": 3495,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -533,12 +842,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU",
+                "homepage": null,
                 "id": 604399140,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-18T19:58:40Z",
+                "open_issues": 4,
                 "owner": "o-oconnell",
                 "repo": "minixfromscratch",
-                "stars": 1268
+                "stars": 1268,
+                "topics": [
+                  "bash",
+                  "compilers",
+                  "computer-architecture",
+                  "data-structures-and-algorithms",
+                  "filesystem",
+                  "kernel",
+                  "networking",
+                  "operating-systems",
+                  "programming",
+                  "system-administration",
+                  "system-programming"
+                ]
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -549,12 +875,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Original Minix 1 sources from the book \"Operating Systems: Design and Implementation\" 1st ed.",
+                "homepage": null,
                 "id": 110554202,
                 "language": "C",
+                "license": null,
                 "last_commit": "2017-11-13T13:57:04Z",
+                "open_issues": 1,
                 "owner": "gdevic",
                 "repo": "minix1",
-                "stars": 402
+                "stars": 402,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             },
@@ -565,12 +896,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The original source code for MINIX 2.0.0",
+                "homepage": null,
                 "id": 435192688,
                 "language": "C",
+                "license": null,
                 "last_commit": "2021-12-05T14:40:57Z",
+                "open_issues": 0,
                 "owner": "leap0x7b",
                 "repo": "minix-2.0.0",
-                "stars": 13
+                "stars": 13,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
             }
@@ -595,12 +931,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "RISC-V Instruction Set Manual",
+                        "homepage": "https://riscv.github.io/riscv-isa-manual/",
                         "id": 80689539,
                         "language": "TeX",
+                        "license": "CC-BY-4.0",
                         "last_commit": "2026-08-26T18:53:06Z",
+                        "open_issues": 177,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4789
+                        "stars": 4789,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
                     },
@@ -611,12 +952,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "RISC-V Instruction Set Manual",
+                        "homepage": "https://riscv.github.io/riscv-isa-manual/",
                         "id": 80689539,
                         "language": "TeX",
+                        "license": "CC-BY-4.0",
                         "last_commit": "2026-08-26T18:53:06Z",
+                        "open_issues": 177,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4789
+                        "stars": 4789,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
                     }
@@ -636,12 +982,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Mirror of OS X ABI Mach-O File Format Reference",
+                    "homepage": null,
                     "id": 71191443,
                     "language": null,
+                    "license": null,
                     "last_commit": "2024-10-13T04:06:23Z",
+                    "open_issues": 1,
                     "owner": "aidansteele",
                     "repo": "osx-abi-macho-file-format-reference",
-                    "stars": 880
+                    "stars": 880,
+                    "topics": [
+                      "abi",
+                      "apple",
+                      "mach-o",
+                      "osx"
+                    ]
                   },
                   "first_seen": "2026-08-28T17:21:18.229Z"
                 },
@@ -657,12 +1013,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "A RISC-V ELF psABI Document",
+                        "homepage": "https://riscv.atlassian.net/browse/RVG-4",
                         "id": 72778280,
                         "language": "Python",
+                        "license": "CC-BY-4.0",
                         "last_commit": "2026-08-13T15:03:38Z",
+                        "open_issues": 92,
                         "owner": "riscv-non-isa",
                         "repo": "riscv-elf-psabi-doc",
-                        "stars": 851
+                        "stars": 851,
+                        "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
                     }
@@ -683,15 +1044,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:21:18.229Z",
+    "last_updated": "2026-08-29T05:01:40.587Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of resources and projects for operating system development.",
+      "homepage": null,
       "id": 435372678,
       "language": null,
+      "license": null,
       "last_commit": "2024-06-05T15:31:26Z",
+      "open_issues": 4,
       "owner": "leap0x7b",
       "repo": "awesome-osdev",
-      "stars": 82
+      "stars": 82,
+      "topics": [
+        "awesome-list",
+        "osdev"
+      ]
     },
     "original_repository_sha": "9e7e9db2502fbd37cf76cc362122eea81359e917",
     "enhanced_repository": "enhansome/enhansome-osdev",
