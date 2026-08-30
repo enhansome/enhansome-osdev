@@ -17,11 +17,11 @@
                 "id": 186746473,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-25T13:18:03Z",
-                "open_issues": 17,
+                "last_commit": "2026-08-29T18:53:46Z",
+                "open_issues": 18,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3646,
+                "stars": 3647,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-08-29T11:08:25Z",
-                "open_issues": 742,
+                "last_commit": "2026-08-29T15:18:05Z",
+                "open_issues": 747,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33794,
+                "stars": 33797,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -193,7 +193,7 @@
                 "open_issues": 65,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6832,
+                "stars": 6833,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -260,7 +260,7 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-08-29T11:19:46Z",
+                "last_commit": "2026-08-30T09:52:33Z",
                 "open_issues": 212,
                 "owner": "managarm",
                 "repo": "managarm",
@@ -760,7 +760,7 @@
                 "open_issues": 130,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30676,
+                "stars": 30679,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "sypstraw",
                 "repo": "rpi4-osdev",
-                "stars": 3768,
+                "stars": 3767,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 126,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3495,
+                "stars": 3496,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -936,11 +936,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-08-26T18:53:06Z",
+                        "last_commit": "2026-08-29T22:26:35Z",
                         "open_issues": 177,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4789,
+                        "stars": 4791,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -957,11 +957,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-08-26T18:53:06Z",
+                        "last_commit": "2026-08-29T22:26:35Z",
                         "open_issues": 177,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4789,
+                        "stars": 4791,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:35:33.559Z",
+    "last_updated": "2026-08-30T10:26:33.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
