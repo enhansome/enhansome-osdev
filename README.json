@@ -17,11 +17,11 @@
                 "id": 186746473,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-04T23:36:45Z",
+                "last_commit": "2026-09-05T20:36:26Z",
                 "open_issues": 15,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3679,
+                "stars": 3686,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,8 +160,8 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-04T23:22:20Z",
-                "open_issues": 745,
+                "last_commit": "2026-09-05T22:14:16Z",
+                "open_issues": 741,
                 "owner": "SerenityOS",
                 "repo": "serenity",
                 "stars": 33816,
@@ -189,11 +189,11 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-09-04T08:41:41Z",
+                "last_commit": "2026-09-05T11:04:38Z",
                 "open_issues": 65,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6831,
+                "stars": 6832,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -760,7 +760,7 @@
                 "open_issues": 130,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30691,
+                "stars": 30693,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9593,
+                "stars": 9594,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 126,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3501,
+                "stars": 3502,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -940,7 +940,7 @@
                         "open_issues": 179,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4803,
+                        "stars": 4804,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -961,7 +961,7 @@
                         "open_issues": 179,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4803,
+                        "stars": 4804,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T08:58:06.430Z",
+    "last_updated": "2026-09-06T09:19:21.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
