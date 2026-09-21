@@ -21,7 +21,7 @@
                 "open_issues": 23,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3753,
+                "stars": 3758,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-20T00:32:06Z",
+                "last_commit": "2026-09-21T10:14:42Z",
                 "open_issues": 737,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33848,
+                "stars": 33847,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -189,11 +189,11 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-09-20T08:11:44Z",
+                "last_commit": "2026-09-21T09:05:33Z",
                 "open_issues": 65,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6837,
+                "stars": 6839,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -260,11 +260,11 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-09-19T21:41:56Z",
-                "open_issues": 219,
+                "last_commit": "2026-09-21T07:34:14Z",
+                "open_issues": 220,
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 1979,
+                "stars": 1981,
                 "topics": [
                   "asynchronous-io",
                   "hacktoberfest",
@@ -687,7 +687,7 @@
                     "open_issues": 95,
                     "owner": "managarm",
                     "repo": "mlibc",
-                    "stars": 1136,
+                    "stars": 1138,
                     "topics": [
                       "c-library",
                       "cpp",
@@ -760,7 +760,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30711,
+                "stars": 30720,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9614,
+                "stars": 9619,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T09:43:45.827Z",
+    "last_updated": "2026-09-21T10:36:44.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
