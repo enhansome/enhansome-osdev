@@ -21,7 +21,7 @@
                 "open_issues": 27,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3760,
+                "stars": 3765,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -63,7 +63,7 @@
                 "open_issues": 4,
                 "owner": "TomatOrg",
                 "repo": "TomatBoot",
-                "stars": 150,
+                "stars": 149,
                 "topics": [
                   "64bit",
                   "bootloader",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-09-23T07:36:07Z",
+                "last_commit": "2026-09-24T09:53:16Z",
                 "open_issues": 739,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33849,
+                "stars": 33853,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -193,7 +193,7 @@
                 "open_issues": 65,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6843,
+                "stars": 6844,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -683,7 +683,7 @@
                     "id": 63353495,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T22:28:02Z",
+                    "last_commit": "2026-09-23T18:01:44Z",
                     "open_issues": 99,
                     "owner": "managarm",
                     "repo": "mlibc",
@@ -757,10 +757,10 @@
                 "language": "C",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-02-04T09:33:56Z",
-                "open_issues": 129,
+                "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30724,
+                "stars": 30723,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9629,
+                "stars": 9640,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 126,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3503,
+                "stars": 3504,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -851,7 +851,7 @@
                 "open_issues": 4,
                 "owner": "o-oconnell",
                 "repo": "minixfromscratch",
-                "stars": 1269,
+                "stars": 1270,
                 "topics": [
                   "bash",
                   "compilers",
@@ -936,11 +936,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-09-23T09:03:35Z",
-                        "open_issues": 191,
+                        "last_commit": "2026-09-24T09:53:35Z",
+                        "open_issues": 193,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4818,
+                        "stars": 4821,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -957,11 +957,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-09-23T09:03:35Z",
-                        "open_issues": 191,
+                        "last_commit": "2026-09-24T09:53:35Z",
+                        "open_issues": 193,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4818,
+                        "stars": 4821,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1019,7 +1019,7 @@
                         "language": "Python",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-08-13T15:03:38Z",
-                        "open_issues": 92,
+                        "open_issues": 94,
                         "owner": "riscv-non-isa",
                         "repo": "riscv-elf-psabi-doc",
                         "stars": 856,
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T09:52:47.536Z",
+    "last_updated": "2026-09-24T09:53:48.239Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
