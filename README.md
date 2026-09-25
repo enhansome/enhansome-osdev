@@ -12,7 +12,7 @@ List of resources and projects for operating system development.
 
 ### Bootloaders
 
-* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,765 | 🐛 27 | 🌐 C | 📅 2026-09-14 - Modern, advanced, portable, multiprotocol bootloader.
+* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,773 | 🐛 29 | 🌐 C | 📅 2026-09-14 - Modern, advanced, portable, multiprotocol bootloader.
 * 🙁 [TomatBoot](https://github.com/TomatOrg/TomatBoot) ⚠️ Archived - A UEFI 64bit Bootloader
 * 🙂 [Sabaton](https://github.com/FlorenceOS/Sabaton) ⭐ 49 | 🐛 2 | 🌐 Zig | 📅 2023-01-26 - aarch64 stivale2 bootloader
 * 🙂 [Tosaithe](https://github.com/davmac314/tosaithe) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2025-06-28 - Very minimalistic UEFI boot menu / Stivale2 bootloader
@@ -20,10 +20,10 @@ List of resources and projects for operating system development.
 
 ### Operating Systems
 
-* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,853 | 🐛 739 | 🌐 C++ | 📅 2026-09-24 - Graphical Unix-like operating system for x86 computers.
-* 😀 [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,844 | 🐛 65 | 🌐 C | 📅 2026-09-23 - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
+* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,858 | 🐛 740 | 🌐 C++ | 📅 2026-09-24 - Graphical Unix-like operating system for x86 computers.
+* 😀 [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,844 | 🐛 65 | 🌐 C | 📅 2026-09-25 - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 * 🙂 [skiftOS](https://github.com/skiftOS/skift) ⭐ 2,985 | 🐛 7 | 🌐 C++ | 📅 2026-07-08 - A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience. (skiftOS is currently being rewritten so a lot of things might not work)
-* 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,981 | 🐛 220 | 🌐 C++ | 📅 2026-09-22 - Pragmatic microkernel-based OS with fully asynchronous I/O
+* 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,981 | 🐛 221 | 🌐 C++ | 📅 2026-09-25 - Pragmatic microkernel-based OS with fully asynchronous I/O
 * 😀 [Lemon OS](https://github.com/LemonOSProject/LemonOS) ⭐ 1,299 | 🐛 15 | 🌐 C++ | 📅 2024-11-23 - Lemon OS is a UNIX-like 64-bit operating system written in C++.
 * 😀 [Aero](https://github.com/Andy-Python-Programmer/aero) ⭐ 1,254 | 🐛 28 | 🌐 Rust | 📅 2025-04-07 - Aero is a new modern, experimental, unix-like operating system following the monolithic kernel design.
 * 🙂 [BRUTAL](https://github.com/brutal-org/brutal) ⭐ 1,112 | 🐛 2 | 🌐 C | 📅 2026-08-26 - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
@@ -56,8 +56,8 @@ List of resources and projects for operating system development.
 
 ### Tutorials
 
-* [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) ⭐ 30,723 | 🐛 128 | 🌐 C | 📅 2026-02-04 - A tutorial to make a complete operating system from a bootloader to a basic shell.
-* [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) ⭐ 3,771 | 🐛 0 | 🌐 C | 📅 2026-09-03 - A tutorial to write a basic operating system for Raspberry Pi 4.
+* [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) ⭐ 30,728 | 🐛 128 | 🌐 C | 📅 2026-02-04 - A tutorial to make a complete operating system from a bootloader to a basic shell.
+* [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) ⭐ 3,770 | 🐛 0 | 🌐 C | 📅 2026-09-03 - A tutorial to write a basic operating system for Raspberry Pi 4.
 * [Limine Bare Bones](https://wiki.osdev.org/Limine_Bare_Bones) - Bare bones tutorial to make a 64-bit higher half kernel using the Limine boot protocol.
 * [Stivale Bare Bones](https://wiki.osdev.org/Stivale_Bare_Bones) - Bare bones tutorial to make a 64-bit higher half kernel using the Stivale boot protocol.
 * [Building an OS](https://youtube.com/playlist?list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN) \[YouTube] - A YouTube series by Nanobyte on how to make your own operating system and bootloader from scratch.
@@ -125,7 +125,7 @@ List of resources and projects for operating system development.
 
 ### Reference Projects
 
-* [Xv6](https://github.com/mit-pdos/xv6-public) ⭐ 9,640 | 🐛 80 | 🌐 C | 📅 2024-08-13 \[[PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)] - A modernized version of the classic Dennis Richie’s and Ken Thompson’s UNIX V6, written in ANSI C for x86 and [RISC-V](https://github.com/mit-pdos/xv6-riscv) ⭐ 10,498 | 🐛 5 | 🌐 C | 📅 2026-09-19.
+* [Xv6](https://github.com/mit-pdos/xv6-public) ⭐ 9,646 | 🐛 80 | 🌐 C | 📅 2024-08-13 \[[PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)] - A modernized version of the classic Dennis Richie’s and Ken Thompson’s UNIX V6, written in ANSI C for x86 and [RISC-V](https://github.com/mit-pdos/xv6-riscv) ⭐ 10,516 | 🐛 5 | 🌐 C | 📅 2026-09-24.
 * [MINIX 3.1.0](https://github.com/Stichting-MINIX-Research-Foundation/minix/tree/v3.1.0) ⭐ 3,504 | 🐛 126 | 🌐 C | 📅 2024-03-18 - The third version of MINIX for the 32-bit 386 protected mode. Appeared in the third edition of "Operating Systems: Design and Implementation" released in 2006, written by Andrew S. Tanebaum and Albert S. Woodhull.
 * [MINIX From Scratch](https://github.com/o-oconnell/minixfromscratch) ⭐ 1,270 | 🐛 4 | 🌐 Shell | 📅 2025-10-18 - A quick development environment for building the book versions of MINIX 2 and 3.
 * [MINIX 1.0](https://github.com/gdevic/minix1) ⭐ 406 | 🐛 1 | 🌐 C | 📅 2017-11-13 - The first version of MINIX for Intel 8088 real mode. First appeared in a book released in 1986 called "Operating Systems: Design and Implementation" written by Andrew S. Tanenbaum.
@@ -175,8 +175,8 @@ List of resources and projects for operating system development.
 * [ARM Architecture Reference Manual](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a?token=) \[PDF]
   * [Aarch64 Instruction Set Reference Manual](https://documentation-service.arm.com/static/5e7b694616d2907d594029eb?token=) \[PDF]
 * [RISC-V Manuals and Specifications](https://riscv.org/technical/specifications/)
-  * [RISC-V Instruction Set Manual (Volume 1: Unprivileged ISA)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-spec.pdf) ⭐ 4,821 | 🐛 193 | 🌐 TeX | 📅 2026-09-24 \[PDF]
-  * [RISC-V Instruction Set Manual (Volume 2: Privileged Architecture)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-privileged.pdf) ⭐ 4,821 | 🐛 193 | 🌐 TeX | 📅 2026-09-24 \[PDF]
+  * [RISC-V Instruction Set Manual (Volume 1: Unprivileged ISA)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-spec.pdf) ⭐ 4,821 | 🐛 194 | 🌐 TeX | 📅 2026-09-24 \[PDF]
+  * [RISC-V Instruction Set Manual (Volume 2: Privileged Architecture)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-privileged.pdf) ⭐ 4,821 | 🐛 194 | 🌐 TeX | 📅 2026-09-24 \[PDF]
 
 ##### Instruction Set Extensions
 
@@ -293,7 +293,7 @@ List of resources and projects for operating system development.
 
 * [OS X ABI Mach-O File Format Reference](https://github.com/aidansteele/osx-abi-macho-file-format-reference/raw/master/Mach-O_File_Format.pdf) ⭐ 883 | 🐛 3 | 📅 2024-10-13 \[PDF]
 * [Executable and Linking Format Specification](https://refspecs.linuxfoundation.org/elf/elf.pdf) \[PDF]
-  * [RISC-V ELF psABI Document](https://github.com/riscv-non-isa/riscv-elf-psabi-doc/releases/download/v1.0-rc1/riscv-abi.pdf) ⭐ 856 | 🐛 94 | 🌐 Python | 📅 2026-08-13 \[PDF]
+  * [RISC-V ELF psABI Document](https://github.com/riscv-non-isa/riscv-elf-psabi-doc/releases/download/v1.0-rc1/riscv-abi.pdf) ⭐ 856 | 🐛 91 | 🌐 Python | 📅 2026-09-24 \[PDF]
   * [System V Application Binary Interface Edition 4.1](http://www.sco.com/developers/devspecs/gabi41.pdf) \[PDF]
   * [System V ABI, Intel386 Architecture Processor Supplement](http://www.sco.com/developers/devspecs/abi386-4.pdf) \[PDF]
   * [System V ABI, AMD64 Supplement](http://refspecs.linuxbase.org/elf/x86_64-abi-0.99.pdf) \[PDF]
@@ -320,4 +320,4 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
