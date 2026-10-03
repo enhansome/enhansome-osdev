@@ -161,10 +161,10 @@
                 "language": "C++",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-02T07:57:36Z",
-                "open_issues": 741,
+                "open_issues": 742,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33877,
+                "stars": 33881,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -193,7 +193,7 @@
                 "open_issues": 65,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6853,
+                "stars": 6854,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -234,7 +234,7 @@
                 "open_issues": 7,
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2985,
+                "stars": 2986,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -293,7 +293,7 @@
                 "open_issues": 15,
                 "owner": "LemonOSProject",
                 "repo": "LemonOS",
-                "stars": 1298,
+                "stars": 1297,
                 "topics": [
                   "c",
                   "cpp",
@@ -322,7 +322,7 @@
                 "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1254,
+                "stars": 1253,
                 "topics": [
                   "aero",
                   "hacktoberfest",
@@ -409,7 +409,7 @@
                 "open_issues": 9,
                 "owner": "byteduck",
                 "repo": "duckOS",
-                "stars": 647,
+                "stars": 648,
                 "topics": [
                   "aarch64",
                   "baremetal",
@@ -684,7 +684,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-02T08:30:35Z",
-                    "open_issues": 98,
+                    "open_issues": 99,
                     "owner": "managarm",
                     "repo": "mlibc",
                     "stars": 1142,
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9666,
+                "stars": 9667,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -936,8 +936,8 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-10-02T01:55:11Z",
-                        "open_issues": 192,
+                        "last_commit": "2026-10-02T18:14:39Z",
+                        "open_issues": 188,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
                         "stars": 4841,
@@ -957,8 +957,8 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-10-02T01:55:11Z",
-                        "open_issues": 192,
+                        "last_commit": "2026-10-02T18:14:39Z",
+                        "open_issues": 188,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
                         "stars": 4841,
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:01:10.564Z",
+    "last_updated": "2026-10-03T05:00:19.822Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
