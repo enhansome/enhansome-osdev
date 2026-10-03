@@ -21,7 +21,7 @@
                 "open_issues": 28,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3797,
+                "stars": 3798,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -161,10 +161,10 @@
                 "language": "C++",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-02T07:57:36Z",
-                "open_issues": 742,
+                "open_issues": 744,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33881,
+                "stars": 33883,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -189,11 +189,11 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-10-02T08:38:23Z",
+                "last_commit": "2026-10-03T10:15:48Z",
                 "open_issues": 65,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6854,
+                "stars": 6855,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -322,7 +322,7 @@
                 "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1253,
+                "stars": 1254,
                 "topics": [
                   "aero",
                   "hacktoberfest",
@@ -830,7 +830,7 @@
                 "open_issues": 126,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3510,
+                "stars": 3511,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:00:19.822Z",
+    "last_updated": "2026-10-03T10:20:20.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
