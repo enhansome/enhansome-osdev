@@ -17,11 +17,11 @@
                 "id": 186746473,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-03T23:35:45Z",
+                "last_commit": "2026-10-04T15:30:40Z",
                 "open_issues": 21,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3802,
+                "stars": 3805,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,7 +160,7 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-02T07:57:36Z",
+                "last_commit": "2026-10-05T09:09:23Z",
                 "open_issues": 744,
                 "owner": "SerenityOS",
                 "repo": "serenity",
@@ -189,11 +189,11 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-10-04T08:28:09Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-05T09:40:35Z",
+                "open_issues": 63,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6856,
+                "stars": 6855,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -234,7 +234,7 @@
                 "open_issues": 7,
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2986,
+                "stars": 2987,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -260,8 +260,8 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-03T18:50:00Z",
-                "open_issues": 222,
+                "last_commit": "2026-10-04T21:18:00Z",
+                "open_issues": 221,
                 "owner": "managarm",
                 "repo": "managarm",
                 "stars": 1984,
@@ -322,7 +322,7 @@
                 "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1254,
+                "stars": 1255,
                 "topics": [
                   "aero",
                   "hacktoberfest",
@@ -683,8 +683,8 @@
                     "id": 63353495,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-03T23:04:14Z",
-                    "open_issues": 99,
+                    "last_commit": "2026-10-04T14:33:24Z",
+                    "open_issues": 98,
                     "owner": "managarm",
                     "repo": "mlibc",
                     "stars": 1141,
@@ -760,7 +760,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30744,
+                "stars": 30745,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9670,
+                "stars": 9671,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -940,7 +940,7 @@
                         "open_issues": 188,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4844,
+                        "stars": 4843,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -961,7 +961,7 @@
                         "open_issues": 188,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4844,
+                        "stars": 4843,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:04:09.971Z",
+    "last_updated": "2026-10-05T12:12:11.420Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
