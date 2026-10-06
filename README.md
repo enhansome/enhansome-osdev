@@ -20,7 +20,7 @@ List of resources and projects for operating system development.
 
 ### Operating Systems
 
-* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,888 | 🐛 745 | 🌐 C++ | 📅 2026-10-05 - Graphical Unix-like operating system for x86 computers.
+* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,889 | 🐛 747 | 🌐 C++ | 📅 2026-10-05 - Graphical Unix-like operating system for x86 computers.
 * 😀 [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,855 | 🐛 63 | 🌐 C | 📅 2026-10-06 - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 * 🙂 [skiftOS](https://github.com/skiftOS/skift) ⭐ 2,987 | 🐛 7 | 🌐 C++ | 📅 2026-07-08 - A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience. (skiftOS is currently being rewritten so a lot of things might not work)
 * 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,985 | 🐛 219 | 🌐 C++ | 📅 2026-10-06 - Pragmatic microkernel-based OS with fully asynchronous I/O
@@ -175,8 +175,8 @@ List of resources and projects for operating system development.
 * [ARM Architecture Reference Manual](https://documentation-service.arm.com/static/5f8dacc8f86e16515cdb865a?token=) \[PDF]
   * [Aarch64 Instruction Set Reference Manual](https://documentation-service.arm.com/static/5e7b694616d2907d594029eb?token=) \[PDF]
 * [RISC-V Manuals and Specifications](https://riscv.org/technical/specifications/)
-  * [RISC-V Instruction Set Manual (Volume 1: Unprivileged ISA)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-spec.pdf) ⭐ 4,845 | 🐛 184 | 🌐 TeX | 📅 2026-10-06 \[PDF]
-  * [RISC-V Instruction Set Manual (Volume 2: Privileged Architecture)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-privileged.pdf) ⭐ 4,845 | 🐛 184 | 🌐 TeX | 📅 2026-10-06 \[PDF]
+  * [RISC-V Instruction Set Manual (Volume 1: Unprivileged ISA)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-spec.pdf) ⭐ 4,845 | 🐛 183 | 🌐 TeX | 📅 2026-10-06 \[PDF]
+  * [RISC-V Instruction Set Manual (Volume 2: Privileged Architecture)](https://github.com/riscv/riscv-isa-manual/releases/download/draft-20211216-5651528/riscv-privileged.pdf) ⭐ 4,845 | 🐛 183 | 🌐 TeX | 📅 2026-10-06 \[PDF]
 
 ##### Instruction Set Extensions
 
