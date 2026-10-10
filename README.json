@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3822,
+                "stars": 3827,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -189,11 +189,11 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-10-08T04:02:44Z",
+                "last_commit": "2026-10-09T13:23:38Z",
                 "open_issues": 63,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6854,
+                "stars": 6856,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -234,7 +234,7 @@
                 "open_issues": 7,
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2987,
+                "stars": 2988,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -260,11 +260,11 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T07:07:01Z",
-                "open_issues": 217,
+                "last_commit": "2026-10-09T21:45:50Z",
+                "open_issues": 214,
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 1988,
+                "stars": 1989,
                 "topics": [
                   "asynchronous-io",
                   "hacktoberfest",
@@ -683,8 +683,8 @@
                     "id": 63353495,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-06T08:51:38Z",
-                    "open_issues": 100,
+                    "last_commit": "2026-10-09T21:48:52Z",
+                    "open_issues": 99,
                     "owner": "managarm",
                     "repo": "mlibc",
                     "stars": 1143,
@@ -760,7 +760,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30754,
+                "stars": 30753,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9676,
+                "stars": 9678,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -937,7 +937,7 @@
                         "language": "TeX",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-10-08T23:40:11Z",
-                        "open_issues": 178,
+                        "open_issues": 179,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
                         "stars": 4846,
@@ -958,7 +958,7 @@
                         "language": "TeX",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-10-08T23:40:11Z",
-                        "open_issues": 178,
+                        "open_issues": 179,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
                         "stars": 4846,
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T11:48:51.019Z",
+    "last_updated": "2026-10-10T11:05:48.608Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
