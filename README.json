@@ -21,7 +21,7 @@
                 "open_issues": 21,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3827,
+                "stars": 3833,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -161,10 +161,10 @@
                 "language": "C++",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-08T14:07:29Z",
-                "open_issues": 744,
+                "open_issues": 745,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33894,
+                "stars": 33898,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -189,11 +189,11 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-10-09T13:23:38Z",
+                "last_commit": "2026-10-11T09:51:11Z",
                 "open_issues": 63,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6856,
+                "stars": 6857,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -260,7 +260,7 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-09T21:45:50Z",
+                "last_commit": "2026-10-10T17:17:17Z",
                 "open_issues": 214,
                 "owner": "managarm",
                 "repo": "managarm",
@@ -684,7 +684,7 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-09T21:48:52Z",
-                    "open_issues": 99,
+                    "open_issues": 100,
                     "owner": "managarm",
                     "repo": "mlibc",
                     "stars": 1143,
@@ -760,7 +760,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30753,
+                "stars": 30755,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9678,
+                "stars": 9679,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:05:48.608Z",
+    "last_updated": "2026-10-11T11:21:27.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
@@ -1056,7 +1056,7 @@
       "open_issues": 4,
       "owner": "leap0x7b",
       "repo": "awesome-osdev",
-      "stars": 83,
+      "stars": 84,
       "topics": [
         "awesome-list",
         "osdev"
