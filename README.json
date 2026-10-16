@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-10-08T11:46:09Z",
-                "open_issues": 21,
+                "open_issues": 22,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3853,
+                "stars": 3856,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-15T06:56:53Z",
-                "open_issues": 747,
+                "last_commit": "2026-10-16T07:57:03Z",
+                "open_issues": 743,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33904,
+                "stars": 33909,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -189,7 +189,7 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-10-14T02:23:16Z",
+                "last_commit": "2026-10-16T04:04:03Z",
                 "open_issues": 63,
                 "owner": "klange",
                 "repo": "toaruos",
@@ -322,7 +322,7 @@
                 "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1254,
+                "stars": 1253,
                 "topics": [
                   "aero",
                   "hacktoberfest",
@@ -760,7 +760,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30762,
+                "stars": 30761,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -936,11 +936,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-10-13T03:44:16Z",
-                        "open_issues": 182,
+                        "last_commit": "2026-10-15T22:28:51Z",
+                        "open_issues": 181,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4850,
+                        "stars": 4853,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -957,11 +957,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-10-13T03:44:16Z",
-                        "open_issues": 182,
+                        "last_commit": "2026-10-15T22:28:51Z",
+                        "open_issues": 181,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4850,
+                        "stars": 4853,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1018,11 +1018,11 @@
                         "id": 72778280,
                         "language": "Python",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-10-14T02:27:58Z",
+                        "last_commit": "2026-10-15T18:00:11Z",
                         "open_issues": 90,
                         "owner": "riscv-non-isa",
                         "repo": "riscv-elf-psabi-doc",
-                        "stars": 857,
+                        "stars": 858,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T09:47:03.863Z",
+    "last_updated": "2026-10-16T09:40:21.069Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
