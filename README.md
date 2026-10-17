@@ -12,7 +12,7 @@ List of resources and projects for operating system development.
 
 ### Bootloaders
 
-* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,856 | 🐛 22 | 🌐 C | 📅 2026-10-08 - Modern, advanced, portable, multiprotocol bootloader.
+* 😀 [Limine](https://github.com/limine-bootloader/limine) ⭐ 3,863 | 🐛 24 | 🌐 C | 📅 2026-10-16 - Modern, advanced, portable, multiprotocol bootloader.
 * 🙁 [TomatBoot](https://github.com/TomatOrg/TomatBoot) ⚠️ Archived - A UEFI 64bit Bootloader
 * 🙂 [Sabaton](https://github.com/FlorenceOS/Sabaton) ⭐ 49 | 🐛 2 | 🌐 Zig | 📅 2023-01-26 - aarch64 stivale2 bootloader
 * 🙂 [Tosaithe](https://github.com/davmac314/tosaithe) ⭐ 35 | 🐛 0 | 🌐 C++ | 📅 2025-06-28 - Very minimalistic UEFI boot menu / Stivale2 bootloader
@@ -20,12 +20,12 @@ List of resources and projects for operating system development.
 
 ### Operating Systems
 
-* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,909 | 🐛 743 | 🌐 C++ | 📅 2026-10-16 - Graphical Unix-like operating system for x86 computers.
-* 😀 [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,862 | 🐛 63 | 🌐 C | 📅 2026-10-16 - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
+* 😀 [SerenityOS](https://github.com/SerenityOS/serenity) ⭐ 33,907 | 🐛 742 | 🌐 C++ | 📅 2026-10-16 - Graphical Unix-like operating system for x86 computers.
+* 😀 [ToaruOS](https://github.com/klange/toaruos) ⭐ 6,862 | 🐛 60 | 🌐 C | 📅 2026-10-16 - A completely-from-scratch hobby operating system: bootloader, kernel, drivers, C library, and userspace including a composited graphical UI, dynamic linker, syntax-highlighting text editor, network stack, etc.
 * 🙂 [skiftOS](https://github.com/skiftOS/skift) ⭐ 2,989 | 🐛 7 | 🌐 C++ | 📅 2026-07-08 - A hobby operating system built from scratch in modern C++. Featuring a reactive UI library and a strong emphasis on user experience. (skiftOS is currently being rewritten so a lot of things might not work)
-* 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,990 | 🐛 213 | 🌐 C++ | 📅 2026-10-14 - Pragmatic microkernel-based OS with fully asynchronous I/O
+* 😀 [Managarm](https://github.com/managarm/managarm) ⭐ 1,990 | 🐛 213 | 🌐 C++ | 📅 2026-10-16 - Pragmatic microkernel-based OS with fully asynchronous I/O
 * 😀 [Lemon OS](https://github.com/LemonOSProject/LemonOS) ⭐ 1,298 | 🐛 15 | 🌐 C++ | 📅 2024-11-23 - Lemon OS is a UNIX-like 64-bit operating system written in C++.
-* 😀 [Aero](https://github.com/Andy-Python-Programmer/aero) ⭐ 1,253 | 🐛 28 | 🌐 Rust | 📅 2025-04-07 - Aero is a new modern, experimental, unix-like operating system following the monolithic kernel design.
+* 😀 [Aero](https://github.com/Andy-Python-Programmer/aero) ⭐ 1,254 | 🐛 28 | 🌐 Rust | 📅 2025-04-07 - Aero is a new modern, experimental, unix-like operating system following the monolithic kernel design.
 * 🙂 [BRUTAL](https://github.com/brutal-org/brutal) ⭐ 1,114 | 🐛 2 | 🌐 C | 📅 2026-08-26 - An operating system inspired by brutalist design that combines the ideals of UNIX from the 1970s with modern technology and engineering
 * 😀 [opuntiaOS](https://github.com/opuntiaOS-Project/opuntiaOS) ⭐ 662 | 🐛 15 | 🌐 C | 📅 2023-04-06 - An operating system targeting x86, ARMv7, and Aarch64
 * 😀 [duckOS](https://github.com/byteduck/duckOS) ⚠️ Archived - A hobby UNIX-like OS with a graphical window manager for x86 computers.
@@ -56,7 +56,7 @@ List of resources and projects for operating system development.
 
 ### Tutorials
 
-* [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) ⭐ 30,761 | 🐛 128 | 🌐 C | 📅 2026-02-04 - A tutorial to make a complete operating system from a bootloader to a basic shell.
+* [cfenollosa/os-tutorial](https://github.com/cfenollosa/os-tutorial) ⭐ 30,762 | 🐛 128 | 🌐 C | 📅 2026-02-04 - A tutorial to make a complete operating system from a bootloader to a basic shell.
 * [isometimes/rpi4-osdev](https://github.com/isometimes/rpi4-osdev) ⭐ 3,773 | 🐛 0 | 🌐 C | 📅 2026-09-03 - A tutorial to write a basic operating system for Raspberry Pi 4.
 * [Limine Bare Bones](https://wiki.osdev.org/Limine_Bare_Bones) - Bare bones tutorial to make a 64-bit higher half kernel using the Limine boot protocol.
 * [Stivale Bare Bones](https://wiki.osdev.org/Stivale_Bare_Bones) - Bare bones tutorial to make a 64-bit higher half kernel using the Stivale boot protocol.
@@ -125,8 +125,8 @@ List of resources and projects for operating system development.
 
 ### Reference Projects
 
-* [Xv6](https://github.com/mit-pdos/xv6-public) ⭐ 9,686 | 🐛 80 | 🌐 C | 📅 2024-08-13 \[[PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)] - A modernized version of the classic Dennis Richie’s and Ken Thompson’s UNIX V6, written in ANSI C for x86 and [RISC-V](https://github.com/mit-pdos/xv6-riscv) ⭐ 10,650 | 🐛 4 | 🌐 C | 📅 2026-10-15.
-* [MINIX 3.1.0](https://github.com/Stichting-MINIX-Research-Foundation/minix/tree/v3.1.0) ⭐ 3,514 | 🐛 127 | 🌐 C | 📅 2024-03-18 - The third version of MINIX for the 32-bit 386 protected mode. Appeared in the third edition of "Operating Systems: Design and Implementation" released in 2006, written by Andrew S. Tanebaum and Albert S. Woodhull.
+* [Xv6](https://github.com/mit-pdos/xv6-public) ⭐ 9,690 | 🐛 80 | 🌐 C | 📅 2024-08-13 \[[PDF](https://pdos.csail.mit.edu/6.828/2018/xv6/book-rev11.pdf)] - A modernized version of the classic Dennis Richie’s and Ken Thompson’s UNIX V6, written in ANSI C for x86 and [RISC-V](https://github.com/mit-pdos/xv6-riscv) ⭐ 10,657 | 🐛 4 | 🌐 C | 📅 2026-10-15.
+* [MINIX 3.1.0](https://github.com/Stichting-MINIX-Research-Foundation/minix/tree/v3.1.0) ⭐ 3,516 | 🐛 127 | 🌐 C | 📅 2024-03-18 - The third version of MINIX for the 32-bit 386 protected mode. Appeared in the third edition of "Operating Systems: Design and Implementation" released in 2006, written by Andrew S. Tanebaum and Albert S. Woodhull.
 * [MINIX From Scratch](https://github.com/o-oconnell/minixfromscratch) ⭐ 1,274 | 🐛 4 | 🌐 Shell | 📅 2025-10-18 - A quick development environment for building the book versions of MINIX 2 and 3.
 * [MINIX 1.0](https://github.com/gdevic/minix1) ⭐ 406 | 🐛 1 | 🌐 C | 📅 2017-11-13 - The first version of MINIX for Intel 8088 real mode. First appeared in a book released in 1986 called "Operating Systems: Design and Implementation" written by Andrew S. Tanenbaum.
   * [MINIX 1.5.0](https://www.minix-vmd.org/source/std/1.5.0) - A revision of the first version of MINIX that adds support for the 16-bit 286 protected mode and some bug fixes.
@@ -320,4 +320,4 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._

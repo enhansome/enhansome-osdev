@@ -17,11 +17,11 @@
                 "id": 186746473,
                 "language": "C",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-08T11:46:09Z",
-                "open_issues": 22,
+                "last_commit": "2026-10-16T14:39:13Z",
+                "open_issues": 24,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3856,
+                "stars": 3863,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -63,7 +63,7 @@
                 "open_issues": 4,
                 "owner": "TomatOrg",
                 "repo": "TomatBoot",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "64bit",
                   "bootloader",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-16T07:57:03Z",
-                "open_issues": 743,
+                "last_commit": "2026-10-16T09:51:00Z",
+                "open_issues": 742,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33909,
+                "stars": 33907,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -189,8 +189,8 @@
                 "id": 1259258,
                 "language": "C",
                 "license": "NCSA",
-                "last_commit": "2026-10-16T04:04:03Z",
-                "open_issues": 63,
+                "last_commit": "2026-10-16T10:00:12Z",
+                "open_issues": 60,
                 "owner": "klange",
                 "repo": "toaruos",
                 "stars": 6862,
@@ -260,7 +260,7 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-14T19:23:37Z",
+                "last_commit": "2026-10-16T20:27:49Z",
                 "open_issues": 213,
                 "owner": "managarm",
                 "repo": "managarm",
@@ -322,7 +322,7 @@
                 "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1253,
+                "stars": 1254,
                 "topics": [
                   "aero",
                   "hacktoberfest",
@@ -760,7 +760,7 @@
                 "open_issues": 128,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30761,
+                "stars": 30762,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9686,
+                "stars": 9690,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 127,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3514,
+                "stars": 3516,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T09:40:21.069Z",
+    "last_updated": "2026-10-17T09:12:09.602Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
