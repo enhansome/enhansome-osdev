@@ -21,7 +21,7 @@
                 "open_issues": 24,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3925,
+                "stars": 3928,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-02T11:09:45Z",
+                "last_commit": "2026-11-03T11:10:04Z",
                 "open_issues": 741,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33937,
+                "stars": 33940,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -260,11 +260,11 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-02T09:30:37Z",
+                "last_commit": "2026-11-03T08:50:07Z",
                 "open_issues": 217,
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 1996,
+                "stars": 1997,
                 "topics": [
                   "asynchronous-io",
                   "hacktoberfest",
@@ -379,7 +379,7 @@
                 "open_issues": 15,
                 "owner": "opuntiaOS-Project",
                 "repo": "opuntiaOS",
-                "stars": 663,
+                "stars": 664,
                 "topics": [
                   "hobby-kernel",
                   "hobby-os",
@@ -760,7 +760,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30785,
+                "stars": 30787,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 127,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3523,
+                "stars": 3525,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -936,7 +936,7 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-02T04:41:05Z",
+                        "last_commit": "2026-11-03T03:29:27Z",
                         "open_issues": 194,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
@@ -957,7 +957,7 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-02T04:41:05Z",
+                        "last_commit": "2026-11-03T03:29:27Z",
                         "open_issues": 194,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:22:24.830Z",
+    "last_updated": "2026-11-03T12:42:59.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
