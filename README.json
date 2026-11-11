@@ -21,7 +21,7 @@
                 "open_issues": 30,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3944,
+                "stars": 3949,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -164,7 +164,7 @@
                 "open_issues": 746,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33958,
+                "stars": 33960,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -260,8 +260,8 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-09T10:34:02Z",
-                "open_issues": 220,
+                "last_commit": "2026-11-11T09:37:01Z",
+                "open_issues": 221,
                 "owner": "managarm",
                 "repo": "managarm",
                 "stars": 2003,
@@ -684,10 +684,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-09T18:49:14Z",
-                    "open_issues": 104,
+                    "open_issues": 105,
                     "owner": "managarm",
                     "repo": "mlibc",
-                    "stars": 1156,
+                    "stars": 1157,
                     "topics": [
                       "c-library",
                       "cpp",
@@ -760,7 +760,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30796,
+                "stars": 30801,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "sypstraw",
                 "repo": "rpi4-osdev",
-                "stars": 3775,
+                "stars": 3774,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9726,
+                "stars": 9728,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 127,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3527,
+                "stars": 3528,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -936,11 +936,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-10T11:44:52Z",
-                        "open_issues": 197,
+                        "last_commit": "2026-11-11T04:17:28Z",
+                        "open_issues": 195,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4892,
+                        "stars": 4894,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -957,11 +957,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-10T11:44:52Z",
-                        "open_issues": 197,
+                        "last_commit": "2026-11-11T04:17:28Z",
+                        "open_issues": 195,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4892,
+                        "stars": 4894,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:23:57.922Z",
+    "last_updated": "2026-11-11T12:37:08.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
