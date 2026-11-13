@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-10T05:00:00Z",
-                "open_issues": 30,
+                "open_issues": 31,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3952,
+                "stars": 3953,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-12T13:05:51Z",
-                "open_issues": 746,
+                "last_commit": "2026-11-13T02:08:12Z",
+                "open_issues": 744,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33964,
+                "stars": 33966,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -193,7 +193,7 @@
                 "open_issues": 60,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6866,
+                "stars": 6865,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -234,7 +234,7 @@
                 "open_issues": 7,
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2994,
+                "stars": 2993,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -260,11 +260,11 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-12T06:26:58Z",
-                "open_issues": 223,
+                "last_commit": "2026-11-12T23:38:37Z",
+                "open_issues": 225,
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 2002,
+                "stars": 2001,
                 "topics": [
                   "asynchronous-io",
                   "hacktoberfest",
@@ -379,7 +379,7 @@
                 "open_issues": 15,
                 "owner": "opuntiaOS-Project",
                 "repo": "opuntiaOS",
-                "stars": 663,
+                "stars": 662,
                 "topics": [
                   "hobby-kernel",
                   "hobby-os",
@@ -683,7 +683,7 @@
                     "id": 63353495,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-09T18:49:14Z",
+                    "last_commit": "2026-11-12T23:39:24Z",
                     "open_issues": 107,
                     "owner": "managarm",
                     "repo": "mlibc",
@@ -760,7 +760,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30803,
+                "stars": 30805,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -809,7 +809,7 @@
                 "open_issues": 80,
                 "owner": "mit-pdos",
                 "repo": "xv6-public",
-                "stars": 9730,
+                "stars": 9734,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 130,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3530,
+                "stars": 3531,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -851,7 +851,7 @@
                 "open_issues": 4,
                 "owner": "o-oconnell",
                 "repo": "minixfromscratch",
-                "stars": 1275,
+                "stars": 1274,
                 "topics": [
                   "bash",
                   "compilers",
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "gdevic",
                 "repo": "minix1",
-                "stars": 408,
+                "stars": 409,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -936,11 +936,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-12T06:28:50Z",
+                        "last_commit": "2026-11-13T00:44:02Z",
                         "open_issues": 194,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4894,
+                        "stars": 4893,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -957,11 +957,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-12T06:28:50Z",
+                        "last_commit": "2026-11-13T00:44:02Z",
                         "open_issues": 194,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4894,
+                        "stars": 4893,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T13:40:17.736Z",
+    "last_updated": "2026-11-13T12:59:12.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
