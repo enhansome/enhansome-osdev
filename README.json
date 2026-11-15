@@ -18,10 +18,10 @@
                 "language": "C",
                 "license": "BSD-2-Clause",
                 "last_commit": "2026-11-14T11:52:01Z",
-                "open_issues": 32,
+                "open_issues": 30,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3955,
+                "stars": 3961,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-14T01:44:25Z",
-                "open_issues": 745,
+                "last_commit": "2026-11-15T00:02:12Z",
+                "open_issues": 743,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33967,
+                "stars": 33966,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -193,7 +193,7 @@
                 "open_issues": 60,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6864,
+                "stars": 6865,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -260,7 +260,7 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-13T21:54:28Z",
+                "last_commit": "2026-11-14T14:20:49Z",
                 "open_issues": 223,
                 "owner": "managarm",
                 "repo": "managarm",
@@ -322,7 +322,7 @@
                 "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1256,
+                "stars": 1255,
                 "topics": [
                   "aero",
                   "hacktoberfest",
@@ -350,7 +350,7 @@
                 "open_issues": 2,
                 "owner": "brutal-org",
                 "repo": "brutal",
-                "stars": 1113,
+                "stars": 1112,
                 "topics": [
                   "c",
                   "hobby-os",
@@ -760,7 +760,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30805,
+                "stars": 30806,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "sypstraw",
                 "repo": "rpi4-osdev",
-                "stars": 3773,
+                "stars": 3772,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -937,10 +937,10 @@
                         "language": "TeX",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-11-14T01:52:23Z",
-                        "open_issues": 192,
+                        "open_issues": 194,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4892,
+                        "stars": 4890,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -958,10 +958,10 @@
                         "language": "TeX",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-11-14T01:52:23Z",
-                        "open_issues": 192,
+                        "open_issues": 194,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4892,
+                        "stars": 4890,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T12:03:36.062Z",
+    "last_updated": "2026-11-15T12:38:57.721Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
@@ -1056,7 +1056,7 @@
       "open_issues": 4,
       "owner": "leap0x7b",
       "repo": "awesome-osdev",
-      "stars": 85,
+      "stars": 84,
       "topics": [
         "awesome-list",
         "osdev"
