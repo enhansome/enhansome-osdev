@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-17T01:18:54Z",
-                "open_issues": 749,
+                "last_commit": "2026-11-18T13:18:13Z",
+                "open_issues": 750,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33972,
+                "stars": 33976,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -193,7 +193,7 @@
                 "open_issues": 60,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6865,
+                "stars": 6866,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -234,7 +234,7 @@
                 "open_issues": 7,
                 "owner": "skift-org",
                 "repo": "skift",
-                "stars": 2992,
+                "stars": 2991,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -260,7 +260,7 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-16T22:00:06Z",
+                "last_commit": "2026-11-17T22:44:42Z",
                 "open_issues": 223,
                 "owner": "managarm",
                 "repo": "managarm",
@@ -760,7 +760,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30821,
+                "stars": 30828,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -830,7 +830,7 @@
                 "open_issues": 130,
                 "owner": "Stichting-MINIX-Research-Foundation",
                 "repo": "minix",
-                "stars": 3535,
+                "stars": 3536,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -936,11 +936,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-17T07:54:07Z",
-                        "open_issues": 196,
+                        "last_commit": "2026-11-18T03:07:06Z",
+                        "open_issues": 197,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4893,
+                        "stars": 4895,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -957,11 +957,11 @@
                         "id": 80689539,
                         "language": "TeX",
                         "license": "CC-BY-4.0",
-                        "last_commit": "2026-11-17T07:54:07Z",
-                        "open_issues": 196,
+                        "last_commit": "2026-11-18T03:07:06Z",
+                        "open_issues": 197,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4893,
+                        "stars": 4895,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1022,7 +1022,7 @@
                         "open_issues": 94,
                         "owner": "riscv-non-isa",
                         "repo": "riscv-elf-psabi-doc",
-                        "stars": 861,
+                        "stars": 862,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T14:16:00.516Z",
+    "last_updated": "2026-11-18T13:48:50.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
