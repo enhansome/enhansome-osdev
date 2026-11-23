@@ -21,7 +21,7 @@
                 "open_issues": 25,
                 "owner": "Limine-Bootloader",
                 "repo": "Limine",
-                "stars": 3986,
+                "stars": 3989,
                 "topics": [
                   "aarch64",
                   "arm",
@@ -160,11 +160,11 @@
                 "id": 160083795,
                 "language": "C++",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-11-20T21:06:51Z",
-                "open_issues": 750,
+                "last_commit": "2026-11-23T13:46:31Z",
+                "open_issues": 749,
                 "owner": "SerenityOS",
                 "repo": "serenity",
-                "stars": 33985,
+                "stars": 33984,
                 "topics": [
                   "browser",
                   "c-plus-plus",
@@ -193,7 +193,7 @@
                 "open_issues": 60,
                 "owner": "klange",
                 "repo": "toaruos",
-                "stars": 6863,
+                "stars": 6864,
                 "topics": [
                   "aarch64",
                   "armv8",
@@ -260,11 +260,11 @@
                 "id": 63081862,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-22T11:48:40Z",
+                "last_commit": "2026-11-23T10:10:22Z",
                 "open_issues": 226,
                 "owner": "managarm",
                 "repo": "managarm",
-                "stars": 2004,
+                "stars": 2005,
                 "topics": [
                   "asynchronous-io",
                   "hacktoberfest",
@@ -293,7 +293,7 @@
                 "open_issues": 15,
                 "owner": "LemonOSProject",
                 "repo": "LemonOS",
-                "stars": 1300,
+                "stars": 1299,
                 "topics": [
                   "c",
                   "cpp",
@@ -322,7 +322,7 @@
                 "open_issues": 28,
                 "owner": "Andy-Python-Programmer",
                 "repo": "aero",
-                "stars": 1253,
+                "stars": 1254,
                 "topics": [
                   "aero",
                   "hacktoberfest",
@@ -683,8 +683,8 @@
                     "id": 63353495,
                     "language": "C",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-22T12:56:23Z",
-                    "open_issues": 106,
+                    "last_commit": "2026-11-23T12:24:49Z",
+                    "open_issues": 104,
                     "owner": "managarm",
                     "repo": "mlibc",
                     "stars": 1157,
@@ -760,7 +760,7 @@
                 "open_issues": 129,
                 "owner": "cfenollosa",
                 "repo": "os-tutorial",
-                "stars": 30834,
+                "stars": 30835,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -781,7 +781,7 @@
                 "open_issues": 0,
                 "owner": "sypstraw",
                 "repo": "rpi4-osdev",
-                "stars": 3774,
+                "stars": 3775,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -851,7 +851,7 @@
                 "open_issues": 4,
                 "owner": "o-oconnell",
                 "repo": "minixfromscratch",
-                "stars": 1274,
+                "stars": 1273,
                 "topics": [
                   "bash",
                   "compilers",
@@ -884,7 +884,7 @@
                 "open_issues": 1,
                 "owner": "gdevic",
                 "repo": "minix1",
-                "stars": 410,
+                "stars": 411,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:21:18.229Z"
@@ -937,10 +937,10 @@
                         "language": "TeX",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-11-21T01:29:00Z",
-                        "open_issues": 197,
+                        "open_issues": 203,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4900,
+                        "stars": 4899,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -958,10 +958,10 @@
                         "language": "TeX",
                         "license": "CC-BY-4.0",
                         "last_commit": "2026-11-21T01:29:00Z",
-                        "open_issues": 197,
+                        "open_issues": 203,
                         "owner": "riscv",
                         "repo": "riscv-isa-manual",
-                        "stars": 4900,
+                        "stars": 4899,
                         "topics": []
                       },
                       "first_seen": "2026-08-28T17:21:18.229Z"
@@ -988,7 +988,7 @@
                     "language": null,
                     "license": null,
                     "last_commit": "2024-10-13T04:06:23Z",
-                    "open_issues": 3,
+                    "open_issues": 2,
                     "owner": "aidansteele",
                     "repo": "osx-abi-macho-file-format-reference",
                     "stars": 883,
@@ -1044,7 +1044,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T13:14:34.641Z",
+    "last_updated": "2026-11-23T15:51:37.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of resources and projects for operating system development.",
